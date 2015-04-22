@@ -1,0 +1,3480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: academusnet\n"
+"POT-Creation-Date: 2015-04-22 14:49-0300\n"
+"PO-Revision-Date: 2015-04-22 15:22-0300\n"
+"Last-Translator: Cristiano de Jesus <cristiano.jesus@academusnet.pro.br>\n"
+"Language-Team: Cristiano de Jesus <cristiano.jesus@academusnet.pro.br>\n"
+"Language: ENGLISH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /home/cjesus/public_html/academusnetv5.0/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: lms\n"
+
+#: index.php:113 lms/menu.inc:52
+msgid "In&iacute;cio"
+msgstr "Home"
+
+#: index.php:114 index.php:178
+msgid "Sobre"
+msgstr "About"
+
+#: index.php:115 index.php:302
+msgid "Recursos"
+msgstr "Resources"
+
+#: index.php:116 index.php:435 lms/endcur.php:446 lms/endcur.php:505
+#: lms/menup.inc:25
+msgid "Cursos"
+msgstr "Courses"
+
+#: index.php:117 index.php:545
+msgid "Servi&ccedil;os"
+msgstr "Services"
+
+#: index.php:118
+msgid "Contato"
+msgstr "Contact"
+
+#: index.php:152
+msgid "Bem vindo ao"
+msgstr "Welcome to"
+
+#: index.php:154
+msgid ""
+"Um servi&ccedil;o gratu&iacute;to para gerenciamento de ambientes de ensino "
+"e aprendizagem. Ideal para educa&ccedil;&atilde;o a dist&acirc;ncia e "
+"perfeito para apoio e gest&atilde;o da educa&ccedil;&atilde;o presencial."
+msgstr ""
+"A free service for management of teaching and learning environments. Ideal "
+"for distance education and perfect for support and management of classroom "
+"education."
+
+#: index.php:156
+msgid "Cadastre-se"
+msgstr "Sign in"
+
+#: index.php:157
+msgid "Acesse"
+msgstr "Log in"
+
+#: index.php:179
+msgid ""
+"Academusnet &eacute; um sistema de apoio tanto para o ensino presencial como "
+"tamb&eacute;m para a educa&ccedil;&atilde;o a dist&acirc;ncia."
+msgstr ""
+"Academusnet é um sistema de apoio tanto para o ensino presencial como também "
+"para a educação a distância."
+
+#: index.php:195
+msgid ""
+"&Agrave;s Institui&ccedil;&otilde;es de Ensino, o Academusnet fornece a "
+"possibilidade de integra&ccedil;&atilde;o com os sistemas internos de "
+"controle proporcionando assim uma perfeita movimenta&ccedil;&atilde;o entre "
+"as atividades pedag&oacute;gicas e administrativas."
+msgstr ""
+"To education institutions, Academusnet provides the possibility of "
+"integration with the internal control systems thus providing a perfect drive "
+"between the pedagogical and administrative activities."
+
+#: index.php:196
+msgid ""
+"O sistema &eacute; multi institui&ccedil;&atilde;o, multi campus e multi "
+"cursos podendo assim ser adaptado para facilitar a gest&atilde;o de planos "
+"de ensino e acompanhamento de di&aacute;rios de classe."
+msgstr ""
+"The system is multi institution, multi campus and multi courses which can "
+"therefore be adapted to facilitate the management of teaching plans and "
+"monitoring of class daily."
+
+#: index.php:198
+msgid ""
+"Ao Professor, a ferramenta oferece um ambiente constru&iacute;do para "
+"auxili&aacute;-lo nas suas obriga&ccedil;&otilde;es burocr&aacute;ticas e "
+"nas suas pr&aacute;ticas pedag&oacute;gicas. H&aacute; recursos para "
+"planejamento e registro de aulas, controle de frequ&ecirc;ncia, entre "
+"outros. Outros recursos diferenciados s&atilde;o oferecidos dentre os quais "
+"est&atilde;o a op&ccedil;&atilde;o de definir estrat&eacute;gias educativas "
+"segundo a Taxonomia de Bloom, al&eacute;m de controle de orienta&ccedil;"
+"&atilde;o de projetos, mecanismo para desenvolvimento e corre&ccedil;&atilde;"
+"o de atividades, editor HTML para cria&ccedil;&atilde;o de cursos a "
+"dist&acirc;ncia, organiza&ccedil;&atilde;o de material did&aacute;tio, etc."
+msgstr ""
+"To professor, the tool features a built environment to assist in their "
+"bureaucratic obligations and in their teaching. There are resources for "
+"planning and tracking classes, frequency control, among others. Other "
+"differentiating features are offered among which are the option to set "
+"educational strategies according to Bloom's Taxonomy, project guidance, "
+"resources for development of activities with automatic correction, HTML "
+"editor to create e-learning courses, organization of didatic materials, etc."
+
+#: index.php:200
+msgid ""
+"Aos Estudantes, os ambientes virtuais oferecem meios de comunica&ccedil;"
+"&atilde;o entre seus colegas e seus professores por meio de salas de bate-"
+"papo e f&oacute;runs, al&eacute;m da possibilidade de estudo orientado com "
+"base em links selecionados, indica&ccedil;&otilde;es de bibliografia e "
+"outros materiais disponibilizados pelos seus mestres. Al&eacute;m disso, os "
+"estudantes podem acessar seus dados acad&ecirc;micos, sempre atualizados."
+msgstr ""
+"To students, virtual environments provide ways of communication between "
+"colleagues and their instructors through messages and forums, and the "
+"possibility of guided study based on selected links, bibliographical "
+"information and other materials provided by their masters. In addition, "
+"students can access their academic data, to date."
+
+#: index.php:207
+msgid ""
+"Academusnet &eacute; licensiado pela GPL (GNU Public License), ou seja, ele "
+"&eacute; livre e pode ser usado de duas maneiras: de forma on line neste "
+"portal ou instalando-o nos servidores internos da sua institui&ccedil;"
+"&atilde;o. N&atilde;o deixe de entrar em contato em caso de d&uacute;vidas."
+msgstr ""
+"Academusnet is licensed under the GPL (GNU Public License), that is, it is "
+"free and can be used in two ways: so this online portal or installing it in "
+"the internal servers of your institution. Be sure to get in touch with any "
+"questions."
+
+#: index.php:215
+msgid ""
+"Academusnet, uma ferramenta para ensino-aprendizagem e gest&atilde;o da "
+"educa&ccedil;&atilde;o"
+msgstr "Academusnet, a tool for teaching and learning and management education"
+
+#: index.php:223
+msgid ""
+"Academusnet &eacute; resultado de uma iniciativa que visa explorar a "
+"tecnologia da informa&ccedil;&atilde;o (TI) como instrumento de apoio ao "
+"processo de ensino e aprendizagem, como canal a estreitar rela&ccedil;"
+"&otilde;es entre professores e estudantes."
+msgstr ""
+"Academusnet is the result of an initiative to explore the information "
+"technology (IT) as a tool to support the process of teaching and learning, "
+"as a channel to strengthen relationships between professors and students."
+
+#: index.php:224
+msgid ""
+"Os benef&iacute;cios que essa tecnologia pode trazer &eacute; tornar o "
+"processo de ensino e aprendizagem mais interativa e tamb&eacute;m mais "
+"direcionada a atender car&ecirc;ncias particulares de acordo com o perfil de "
+"cada estudante."
+msgstr ""
+"The benefits that this technology can bring is to make teaching and learning "
+"more interactive and also more targeted to meet particular needs according "
+"to the profile of each student."
+
+#: index.php:225
+msgid ""
+"A carga hor&aacute;ria da maioria das disciplinas e cursos muitas vezes "
+"n&atilde;o permite envolver sen&atilde;o uma parte de toda a extens&atilde;o "
+"de sua complexidade. O Academusnet possibilita aos professores ir al&eacute;"
+"m e atribuir dimens&otilde;es para serem exploradas, disponibilizando todos "
+"os recursos did&aacute;ticos que estiverem ao seu alcance. Al&eacute;m disso "
+"o Academusnet &eacute; um excelente aliado para gest&atilde;o dos objetivos "
+"pedag&oacute;gicos seja aos professores como tamb&eacute;m aos coordenadores "
+"e diretores."
+msgstr ""
+"The workload of most disciplines and courses often does not involve only a "
+"part of the full extent of its complexity. Academusnet enables instructors "
+"to go further and assign dimensions to be explored, providing all teaching "
+"resources that are at your fingertips. In addition Academusnet is an "
+"excellent ally for management of educational, for teachers and also for "
+"coordinators and directors."
+
+#: index.php:238
+msgid "Taxonomia de Bloom"
+msgstr "Bloom's Taxonomy"
+
+#: index.php:247
+msgid ""
+"Taxonomia de Bloom &eacute; um arcabou&ccedil;o, uma abstra&ccedil;&atilde;o "
+"que orienta a organiza&ccedil;&atilde;o de objetivos educacionais com base "
+"em habilidades fundamentais divididas nos dom&iacute;nios cognitivo, afetivo "
+"e psicomotor. O Academusnet possui recursos para apoiar o planejamento e "
+"execu&ccedil;&atilde;o de objetivos educacionais do dom&iacute;nio cognitivo."
+msgstr ""
+"Bloom's Taxonomy is a framework, an abstraction that guides the organization "
+"of educational objectives based on fundamental skills divided into the "
+"cognitive, affective and psychomotor domains. Academusnet have the resources "
+"to support the planning and implementation of educational objectives in the "
+"cognitive domain."
+
+#: index.php:257
+msgid "Professores e estudantes"
+msgstr "Professors and students"
+
+#: index.php:265
+msgid ""
+"Academusnet fornece ao docente um ambiente completo para gest&atilde;o das "
+"suas atividades educacionais proporcionando planejamento e organiza&ccedil;"
+"&atilde;o al&eacute;m de recursos para amplia&ccedil;&atilde;o das "
+"possibilidades de did&aacute;tica e acompanhamento ao mesmo passo que "
+"oferece seguran&ccedil;a e conforto ao estudante que num &uacute;nico "
+"ambiente tecnol&oacute;gico encontra praticamente uma extens&atilde;o da "
+"sala de aula."
+msgstr ""
+"Academusnet gives to instructor a complete environment for managing their "
+"educational activities providing planning and organization as well as "
+"resources to expand the possibilities of teaching and follow the same step "
+"that provides security and comfort to the student that a single "
+"technological environment is practically a room extension class."
+
+#: index.php:275
+msgid "Diretores e coordenadores"
+msgstr "Directors and coordinators"
+
+#: index.php:283
+msgid ""
+"Recursos para gest&atilde;o estrat&eacute;gica e t&aacute;tica de cursos e "
+"disciplinas fazem do Academusnet um aliado valioso para os gestores "
+"permitindo a elabora&ccedil;&atilde;o, controle e publica&ccedil;&atilde;o "
+"de planos de ensino, acompanhamento do planejamento institucional, "
+"coordena&ccedil;&atilde;o de atividades colaborativas e outros."
+msgstr ""
+"Resources for strategic and tactical management courses and disciplines make "
+"Academusnet a valuable ally for managers allowing the preparation, control "
+"and publication of teaching plans, monitoring of institutional planning, "
+"coordination of collaborative activities and others."
+
+#: index.php:310
+msgid "Planejamento"
+msgstr "Planning"
+
+#: index.php:311
+msgid ""
+"Disponibilize aos seus estudantes o seu planejamento educacional garantindo "
+"transpar&ecirc;ncia dos processos di&aacute;ticos-pedag&oacute;gicos por "
+"meio do compartilhamento instant&acirc;neo da agenda de compromissos "
+"acad&ecirc;micos, crit&eacute;rio de avalia&ccedil;&atilde;o e outras "
+"informa&ccedil;&otilde;es importantes."
+msgstr ""
+"Offers its students their educational planning ensuring transparency of "
+"didatical-pedagogical processes through instant sharing of the agenda of "
+"academic appointments, evaluation criteria and other important information."
+
+#: index.php:321 lms/tesdo.php:593 lms/tesdo.php:595 lms/agenda.php:149
+#: lms/prova.php:42 lms/prova.php:222 lms/prova.php:225 lms/prova.php:329
+#: lms/prova.php:562 lms/prova.php:565 lms/prova.php:750 lms/prova.php:753
+#: lms/prova.php:1419 lms/prova.php:1611 lms/prova.php:1805 lms/prova.php:1983
+#: lms/copiadis.php:325 lms/plano.php:705 lms/plano.php:864 lms/menu.inc:78
+msgid "Atividades"
+msgstr "Activities"
+
+#: index.php:322
+msgid ""
+"Elabore quest&otilde;es dissertativas, alternativas ou integradas a "
+"servi&ccedil;os de armazenamento em nuvens. Use recursos agregando texto, "
+"&aacute;udio, v&iacute;deo, f&oacute;rmulas e imagens. Prepare um banco de "
+"quest&otilde;es e programe atividades."
+msgstr ""
+"Develop essay questions, alternatives or integrated storage services in "
+"clouds. Use resources adding text, audio, video, images and formulas. "
+"Prepare a bank of questions and program activities."
+
+#: index.php:332 lms/forum.php:19 lms/copiadis.php:333 lms/plano.php:21
+#: lms/plano.php:139 lms/plano.php:413 lms/plano.php:545 lms/plano.php:674
+#: lms/plano.php:677 lms/plano.php:880 lms/plano.php:981 lms/menu.inc:117
+msgid "Planos de aula"
+msgstr "Lesson plans"
+
+#: index.php:333
+msgid ""
+"Desenvolva e programe a publica&ccedil;&atilde;o de planos de aula "
+"assegurando a clareza quanto a operacionaliza&ccedil;&atilde;o do "
+"planejamento das a&ccedil;&otilde;es educativas com vistas aos objetivos "
+"gerais do seu curso. Associe, aos planos de aula, material did&aacute;tico, "
+"conte&uacute;do multim&iacute;dia, atividades e promova f&oacute;runs de "
+"discuss&atilde;o."
+msgstr ""
+"Develop and schedule the publication of lesson plans providing clarity as "
+"the operationalization of the planning of educational activities with a view "
+"to the overall objectives of your course. Associate, to lesson plans, "
+"teaching materials, multimedia content, activities and promote discussion "
+"forums."
+
+#: index.php:343
+msgid "Comunica&ccedil;&atilde;o"
+msgstr "Communication"
+
+#: index.php:344
+msgid ""
+"Mantenha-se acess&iacute;vel aos seus estudantes, colegas docentes e "
+"gestores. O sistema de comunica&ccedil;&atilde;o por meio de mensagens e os "
+"f&oacute;runs de discuss&atilde;o garantem a intera&ccedil;&atilde;o de "
+"todos os participantes do processo de ensino e aprendizagem."
+msgstr ""
+"Stay accessible to your students, colleagues teachers and administrators. "
+"The communication system through messages and discussion forums ensure the "
+"interaction of all participants in the teaching and learning process."
+
+#: index.php:360
+msgid "Material did&aacute;tico"
+msgstr "Didactic material"
+
+#: index.php:361
+msgid ""
+"Organize textos, imagens, &aacute;udios, v&iacute;deos, links e conte&uacute;"
+"dos em hipertexto. Esse material pode ser disponibilizado para uso geral ou "
+"associado a planos de aula para complementar e enriquecer o debate."
+msgstr ""
+"Organize text, images, videos, videos, links and hypertext content. This "
+"material can be made available for general use or associated with lesson "
+"plans to complement and enrich the debate."
+
+#: index.php:371
+msgid "Controle de frequ&ecirc;ncia e notas"
+msgstr "Absent and grade management"
+
+#: index.php:372
+msgid ""
+"O aprendizado &eacute; favorecido quando h&aacute; organiza&ccedil;&atilde;o "
+"e tranquilidade. N&atilde;o deixe seus estudantes se perderem em meio a uma "
+"avalanche de informa&ccedil;&otilde;es muitas vezes desconexas e "
+"conflitantes. Mantenha clareza sobre o processo de ensino e aprendizagem "
+"disponibilizando num s&oacute; local todos os dados necess&aacute;rios para "
+"que o estudante possa definir suas estrat&eacute;gias e planos de estudos "
+"com base no retorno transparente e em tempo real dos resultados do seu "
+"desempenho."
+msgstr ""
+"Learning is favored when there is organization and tranquility. Do not let "
+"your students lost among a flood of information often disjointed and "
+"conflicting. Keep clarity about the process of teaching and learning "
+"available in one place all the information necessary for the student to "
+"define their strategies and curricula on the basis of transparent and real-"
+"time feedback of the results of their performance."
+
+#: index.php:382 lms/menu.inc:111
+msgid "Orienta&ccedil;&atilde;o"
+msgstr "Orientation"
+
+#: index.php:383
+msgid ""
+"Tenha em m&atilde;os um hist&oacute;rico das reuni&otilde;es que j&aacute; "
+"realizou com seus orientandos mantendo um controle sobre pend&ecirc;ncias e "
+"demandas de atividades de pesquisa."
+msgstr ""
+"Please have a history of meetings already held with mentees keeping a check "
+"on pending issues and demands of research activities."
+
+#: index.php:393 lms/eaddis.php:627 lms/plano.php:860
+msgid "Conte&uacute;do"
+msgstr "Content"
+
+#: index.php:394
+msgid ""
+"Com pouco de treino voc&ecirc; ser&aacute; capaz de desenvolver conte&uacute;"
+"dos em HTML agregando textos, imagens, v&iacute;deos e &aacute;udios "
+"al&eacute;m tamb&eacute;m de s&iacute;mbolos matem&aacute;ticos e outros."
+msgstr ""
+"With little practice you will be able to develop HTML content adding text, "
+"images, video and audio in addition also for mathematical symbols and others."
+
+#: index.php:404
+msgid "Participe"
+msgstr "Join"
+
+#: index.php:405
+msgid ""
+"O Academusnet &eacute; livre e aberto. Sugira novas funcionalidades e aponte "
+"oportunidades de melhoria. Essa iniciativa n&atilde;o visa gerar neg&oacute;"
+"cios mas sim contruibuir para melhorar a qualidade da educa&ccedil;&atilde;o."
+msgstr ""
+"Academusnet is free and open. Suggest new features and point improvement "
+"opportunities. This initiative is not intended to generate business but to "
+"contribute to improve the quality of education."
+
+#: index.php:422
+msgid "Vamos trabalhar juntos!"
+msgstr "Let's work together!"
+
+#: index.php:437
+msgid "Cursos e disciplinas abertos para visitantes ou matr&iacute;culas."
+msgstr "Courses and disciplines open to visitors or enrollment."
+
+#: index.php:447 lms/material.php:62 lms/prova.php:369 lms/prova.php:399
+#: lms/questoes.php:44 lms/questoes.php:74
+msgid "Todos"
+msgstr "All"
+
+#: index.php:448
+msgid "Visitante"
+msgstr "Visitor"
+
+#: index.php:449
+msgid "Matr&iacute;cule-se"
+msgstr "Enrollment"
+
+#: index.php:472
+msgid "matricula"
+msgstr "Enroll"
+
+#: index.php:474
+msgid "visitante"
+msgstr "visitor"
+
+#: index.php:494 index.php:509
+msgid "Fechar"
+msgstr "Close"
+
+#: index.php:498 lms/detplanprof.php:30 lms/planoensino.php:274
+#: lms/plano.php:691 lms/plano.php:858
+msgid "Objetivos"
+msgstr "Objectives"
+
+#: index.php:526
+msgid ""
+"No momento n&atilde;o h&aacute; cursos ou disciplinas abertos a visitantes e "
+"para matr&iacute;culas."
+msgstr "There are not opened courses and disciplines at moment."
+
+#: index.php:558
+msgid ""
+"Academusnet &eacute; livre. Nosso objetivo &eacute; a educa&ccedil;&atilde;o."
+msgstr "Academusnet is free. Our goal is education."
+
+#: index.php:559
+msgid ""
+"As obras de conhecimento devem ser livres, n&atilde;o h&aacute; desculpas "
+"para que n&atilde;o sejam assim."
+msgstr "Knowledge works must be free, there is no excuse for that are not so."
+
+#: index.php:560
+msgid "programador"
+msgstr "programmer"
+
+#: index.php:573
+msgid "Contribua!"
+msgstr "Contribute!"
+
+#: index.php:575
+msgid "Academusnet &eacute; resultado de um longo trabalho de pesquisa."
+msgstr "Academusnet is the result of a long research work."
+
+#: index.php:576
+msgid ""
+"Ao adot&aacute;-lo voc&ecirc; pode fazer parte de uma comunidade e "
+"contribuir para seu aperfei&ccedil;oamento."
+msgstr ""
+"To adopt it you can be part of a community and contribute to its improvement."
+
+#: index.php:577
+msgid "Sugira novas funcionalidades e aponte necessidades de melhorias."
+msgstr "Suggest new features and improvements point needs."
+
+#: index.php:578
+msgid ""
+"O come&ccedil;o de todas as ci&ecirc;ncias &eacute; o espanto de as coisas "
+"serem o que s&atilde;o."
+msgstr ""
+"O começo de todas as ciências é o espanto de as coisas serem o que são."
+
+#: index.php:579 index.php:653
+msgid "fil&oacute;sofo grego"
+msgstr "greek philosopher"
+
+#: index.php:592
+msgid "Pe&ccedil;a ajuda!"
+msgstr "Ask help!"
+
+#: index.php:594
+msgid ""
+"&Eacute; poss&iacute;vel integrar o Academusnet ao seu sistema "
+"administrativo. Caso precise de ajuda, entre em contato."
+msgstr ""
+"You can integrate Academusnet its administrative system. If you need help, "
+"please contact us."
+
+#: index.php:595
+msgid ""
+"&Eacute; um erro terr&iacute;vel teorizar antes de termos informa&ccedil;"
+"&atilde;o."
+msgstr "It is a terrible mistake to theorize before we have information."
+
+#: index.php:596
+msgid "escritor"
+msgstr "writer"
+
+#: index.php:611
+msgid "Educa&ccedil;&atilde;o"
+msgstr "Education"
+
+#: index.php:613
+msgid ""
+"Adote uma filosofia de educa&ccedil;&atilde;o centrada no estudante. Uma "
+"educa&ccedil;&atilde;o sem orienta&ccedil;&atilde;o e presa a uma lista de"
+msgstr ""
+"Adopt a philosophy of education centered on the student. An education "
+"without guidance and attached to a list of"
+
+#: index.php:614
+msgid ""
+"conte&uacute;dos &eacute; um mero exerc&iacute;cio de memoriza&ccedil;"
+"&atilde;o."
+msgstr "contents is a simple exercise of memorization."
+
+#: index.php:615
+msgid ""
+"Educar &eacute; crescer. E crescer &eacute; viver. Educa&ccedil;&atilde;o "
+"&eacute;, assim, vida no sentido mais aut&ecirc;ntico da palavra."
+msgstr ""
+"To educate is to grow. And grow is to live. Education is thus life in the "
+"truest sense of the word."
+
+#: index.php:616
+msgid "educador"
+msgstr "educator"
+
+#: index.php:629
+msgid "Articule!"
+msgstr "Articulate!"
+
+#: index.php:631
+msgid ""
+"Trabalhe coletivamente as propostas curriculares; ofere&ccedil;a "
+"condi&ccedil;&otilde;es para o aprofundamento tanto na sua atividade de "
+"pesquisa e"
+msgstr ""
+"Work collectively curriculum proposals; provides conditions for deepening "
+"both in its research activity and"
+
+#: index.php:632
+msgid ""
+"doc&ecirc;ncia como para os estudantes; comprometa-se em promover o debate, "
+"a reflex&atilde;o e a cr&iacute;tica."
+msgstr ""
+"teaching as for students; compromise in promoting discussion, reflection and "
+"criticism."
+
+#: index.php:633
+msgid ""
+"O modo mais seguro de se corromper um jovem &eacute; instrui-lo a manter uma "
+"estima mais alta por aqueles que"
+msgstr ""
+"The surest way to corrupt a young is to instruct him to hold in much higher "
+"esteem by those who"
+
+#: index.php:634
+msgid "pensam como ele do que por aqueles que pensam diferente."
+msgstr "think like him than for those who think differently."
+
+#: index.php:635
+msgid "fil&oacute;sofo alem&atilde;o"
+msgstr "German philosopher"
+
+#: index.php:648
+msgid "Doa&ccedil;&atilde;o"
+msgstr "Donation"
+
+#: index.php:650
+msgid ""
+"Academusnet &eacute; gratu&iacute;to mas possui um custo de manuten&ccedil;"
+"&atilde;o."
+msgstr "Academusnet is free but has a maintenance cost."
+
+#: index.php:651
+msgid ""
+"Caso tenha interesse em fazer uma doa&ccedil;&atilde;o entre em contato."
+msgstr "If you are interested in making a donation, contact us."
+
+#: index.php:652
+msgid "Felicidade &eacute; atividade."
+msgstr "Happiness is activity."
+
+#: index.php:715
+msgid "Contacte-nos"
+msgstr "Contact us"
+
+#: index.php:722
+msgid ""
+"Se tiver d&uacute;vidas, se quiser oferecer alguma sugest&atilde;o de "
+"melhoria, propor novas funcionalidades ou mesmo reportar problemas, n&atilde;"
+"o deixe de fazer contato."
+msgstr ""
+"If you have questions, if you want to offer any suggestions for improvement, "
+"propose new features or report problems, make contact."
+
+#: index.php:749 index.php:750 lms/matricula.php:71 lms/matricula.php:80
+#: lms/matricula.php:138 lms/frequencia.php:120 lms/frequencia.php:122
+#: lms/frequencia.php:214 lms/material.php:497 lms/disciplina.php:32
+#: lms/endereco.php:174 lms/prova.php:592 lms/prova.php:773 lms/prova.php:1622
+#: lms/avaliacao.php:214 lms/endcur.php:161 lms/cadastro.php:813
+#: lms/cadastro.php:881 lms/cadastro.php:884 lms/equipe.php:37
+#: lms/equipe.php:113 lms/perfil.php:196 lms/estudante.php:59
+#: lms/selpro.php:43 lms/reunioes.php:68 lms/plano.php:174 lms/plano.php:449
+#: lms/plano.php:580
+msgid "Nome"
+msgstr "Name"
+
+#: index.php:754
+msgid "Endere&ccedil;o de Email"
+msgstr "Email address"
+
+#: index.php:759
+msgid "Menssagem"
+msgstr "Message"
+
+#: index.php:760 lms/mensagem.php:242
+msgid "Mensagem"
+msgstr "Message"
+
+#: lms/alternativas.php:22
+msgid "Altera dados da alternativa"
+msgstr "Edit the option data"
+
+#: lms/alternativas.php:43 lms/alternativas.php:147 lms/alternativas.php:150
+msgid "N&atilde;o"
+msgstr "Não"
+
+#: lms/alternativas.php:45 lms/alternativas.php:148
+msgid "Sim"
+msgstr "Yes"
+
+#: lms/alternativas.php:50
+msgid "N&atilde;o h&aacute; alternativas registradas"
+msgstr "There are not registered options"
+
+#: lms/alternativas.php:61 lms/aviso.php:80 lms/material.php:183
+#: lms/disciplina.php:533 lms/endereco.php:592 lms/agenda.php:78
+#: lms/prova.php:203 lms/avaliacao.php:162 lms/mensagem.php:91
+#: lms/endcur.php:103 lms/equipe.php:69 lms/perfil.php:180
+#: lms/questoes.php:191 lms/estudante.php:234 lms/eaddis.php:686
+#: lms/reunioes.php:124 lms/plano.php:116 lms/assunto.php:63
+msgid "Excluir"
+msgstr "Delete"
+
+#: lms/alternativas.php:67 lms/aviso.php:83 lms/material.php:189
+#: lms/disciplina.php:539 lms/endereco.php:208 lms/endereco.php:599
+#: lms/agenda.php:81 lms/prova.php:206 lms/prova.php:545 lms/avaliacao.php:165
+#: lms/mensagem.php:94 lms/mensagem.php:249 lms/endcur.php:112
+#: lms/endcur.php:195 lms/equipe.php:72 lms/equipe.php:160
+#: lms/questoes.php:195 lms/estudante.php:241 lms/eaddis.php:692
+#: lms/selpro.php:91 lms/reunioes.php:127 lms/plano.php:119 lms/plano.php:225
+#: lms/plano.php:490 lms/plano.php:620 lms/assunto.php:66
+msgid "Marcar todos"
+msgstr "Check all"
+
+#: lms/alternativas.php:74 lms/aviso.php:87 lms/material.php:194
+#: lms/disciplina.php:545 lms/endereco.php:213 lms/endereco.php:604
+#: lms/agenda.php:85 lms/prova.php:210 lms/prova.php:551 lms/avaliacao.php:169
+#: lms/mensagem.php:98 lms/mensagem.php:254 lms/endcur.php:117
+#: lms/endcur.php:200 lms/equipe.php:76 lms/equipe.php:167
+#: lms/questoes.php:200 lms/estudante.php:248 lms/eaddis.php:698
+#: lms/selpro.php:97 lms/reunioes.php:131 lms/plano.php:123 lms/plano.php:231
+#: lms/plano.php:496 lms/plano.php:626 lms/assunto.php:70
+msgid "Desmarcar todos"
+msgstr "Uncheck all"
+
+#: lms/alternativas.php:91 lms/alternativas.php:105 lms/alternativas.php:115
+#: lms/frequencia.php:185 lms/aviso.php:106 lms/aviso.php:121
+#: lms/aviso.php:139 lms/forum.php:136 lms/forum.php:159 lms/forum.php:175
+#: lms/material.php:282 lms/material.php:344 lms/material.php:367
+#: lms/material.php:381 lms/material.php:398 lms/tesdo.php:146
+#: lms/tesdo.php:203 lms/tesdo.php:735 lms/disciplina.php:109
+#: lms/disciplina.php:157 lms/disciplina.php:182 lms/endereco.php:246
+#: lms/endereco.php:263 lms/endereco.php:294 lms/endereco.php:318
+#: lms/endereco.php:334 lms/endereco.php:347 lms/endereco.php:477
+#: lms/agenda.php:104 lms/agenda.php:117 lms/agenda.php:132 lms/prova.php:906
+#: lms/prova.php:920 lms/prova.php:933 lms/prova.php:945 lms/prova.php:997
+#: lms/prova.php:1018 lms/prova.php:1032 lms/prova.php:1049 lms/prova.php:1113
+#: lms/prova.php:1410 lms/avaliacao.php:441 lms/avaliacao.php:451
+#: lms/avaliacao.php:460 lms/avaliacao.php:483 lms/avaliacao.php:508
+#: lms/menuconfig.php:39 lms/alterara.php:37 lms/mensagem.php:344
+#: lms/altdisvin.php:19 lms/endcur.php:222 lms/endcur.php:243
+#: lms/endcur.php:261 lms/endcur.php:295 lms/endcur.php:324 lms/endcur.php:349
+#: lms/endcur.php:358 lms/equipe.php:197 lms/equipe.php:214 lms/equipe.php:236
+#: lms/equipe.php:263 lms/equipe.php:289 lms/planoensino.php:12
+#: lms/planoensino.php:37 lms/questoes.php:219 lms/questoes.php:245
+#: lms/questoes.php:270 lms/estudante.php:282 lms/estudante.php:293
+#: lms/estudante.php:313 lms/estudante.php:321 lms/estudante.php:356
+#: lms/estudante.php:373 lms/estudante.php:407 lms/estudante.php:673
+#: lms/eaddis.php:220 lms/eaddis.php:270 lms/eaddis.php:297 lms/eaddis.php:313
+#: lms/eaddis.php:332 lms/selpro.php:133 lms/selpro.php:154
+#: lms/reunioes.php:150 lms/reunioes.php:174 lms/reunioes.php:185
+#: lms/plano.php:249 lms/plano.php:266 lms/plano.php:514 lms/plano.php:531
+#: lms/plano.php:644 lms/plano.php:661 lms/plano.php:788 lms/plano.php:803
+#: lms/plano.php:817 lms/plano.php:837 lms/backup.php:389 lms/assunto.php:92
+#: lms/assunto.php:102 lms/assunto.php:111
+msgid "Opera&ccedil;&atilde;o realizada com sucesso ..."
+msgstr "Opeeration realized successfully..."
+
+#: lms/alternativas.php:100 lms/questoes.php:229
+msgid ""
+"Campos obrigat&oacute;rios n&atilde;o foram preenchidos. Os dados n&atilde;o "
+"foram inclu&iacute;dos ..."
+msgstr "Fill all required fields."
+
+#: lms/alternativas.php:130 lms/prova.php:1208 lms/prova.php:1223
+#: lms/prova.php:1498 lms/prova.php:1510
+msgid "alternativa correta"
+msgstr "Correct option"
+
+#: lms/alternativas.php:137 lms/aviso.php:156 lms/forum.php:211
+#: lms/material.php:417 lms/agenda.php:152 lms/prova.php:1617
+#: lms/prova.php:1679 lms/avaliacao.php:520 lms/mensagem.php:239
+#: lms/equipe.php:304 lms/questoes.php:283 lms/reunioes.php:245
+#: lms/plano.php:850 lms/assunto.php:121
+msgid "Asterisco (*) indica campo obrigat&oacute;rio"
+msgstr "All field preceding asterisk (*) are required. "
+
+#: lms/alternativas.php:139 lms/alternativas.php:257 lms/tesdo.php:500
+#: lms/questoes.php:285
+msgid "Quest&atilde;o"
+msgstr "Question"
+
+#: lms/alternativas.php:140 lms/questoes.php:286
+msgid "(Obs: Caso seja necess&aacute;rio, utilize o"
+msgstr "(Obs: case necessary, use the"
+
+#: lms/alternativas.php:141 lms/prova.php:1683 lms/questoes.php:287
+msgid "Editor on line de equa&ccedil;&otilde;es"
+msgstr "On line editor of equations"
+
+#: lms/alternativas.php:143
+msgid "&Eacute; a alternativa correta?"
+msgstr "That is the correct option?"
+
+#: lms/alternativas.php:154 lms/matricula.php:158 lms/frequencia.php:226
+#: lms/aviso.php:162 lms/forum.php:216 lms/material.php:507 lms/tesdo.php:355
+#: lms/tesdo.php:357 lms/disciplina.php:521 lms/endereco.php:574
+#: lms/principal.php:310 lms/prova.php:1651 lms/prova.php:1795
+#: lms/prova.php:1918 lms/copiadis.php:337 lms/avaliacao.php:236
+#: lms/avaliacao.php:321 lms/avaliacao.php:539 lms/mensagem.php:245
+#: lms/altdisvin.php:77 lms/endcur.php:368 lms/cadastro.php:874
+#: lms/equipe.php:308 lms/planoensino.php:308 lms/perfil.php:240
+#: lms/questoes.php:382 lms/acesso.php:121 lms/estudante.php:73
+#: lms/estudante.php:427 lms/eaddis.php:629 lms/plano.php:872
+#: lms/plano.php:920 lms/backup.php:402 lms/assunto.php:124 lms/diario.php:170
+msgid "Enviar"
+msgstr "Send"
+
+#: lms/alternativas.php:191 lms/material.php:547 lms/endereco.php:386
+#: lms/endcur.php:405 lms/questoes.php:417 lms/estudante.php:464
+#: lms/eaddis.php:375 lms/assunto.php:157
+msgid "Notifica&ccedil;&atilde;o"
+msgstr "Notification"
+
+#: lms/alternativas.php:194
+msgid "Voc&ecirc; optou por excluir alternativas."
+msgstr "You chose to delete alternatives."
+
+#: lms/alternativas.php:195 lms/aviso.php:202 lms/forum.php:256
+#: lms/material.php:551 lms/disciplina.php:232 lms/endereco.php:391
+#: lms/agenda.php:204 lms/prova.php:1966 lms/avaliacao.php:578
+#: lms/mensagem.php:384 lms/endcur.php:410 lms/equipe.php:349
+#: lms/planoensino.php:81 lms/perfil.php:116 lms/questoes.php:421
+#: lms/estudante.php:468 lms/eaddis.php:379 lms/selpro.php:195
+#: lms/reunioes.php:344 lms/plano.php:964 lms/assunto.php:161 lms/menu.inc:29
+msgid "Se esta &eacute; a a&ccedil;&atilde;o que deseja executar, "
+msgstr "If this is the action you want to perform,"
+
+#: lms/alternativas.php:196 lms/aviso.php:203 lms/forum.php:257
+#: lms/material.php:552 lms/disciplina.php:233 lms/endereco.php:392
+#: lms/agenda.php:205 lms/prova.php:1967 lms/avaliacao.php:579
+#: lms/mensagem.php:385 lms/endcur.php:411 lms/equipe.php:350
+#: lms/planoensino.php:82 lms/perfil.php:117 lms/questoes.php:422
+#: lms/estudante.php:469 lms/eaddis.php:380 lms/selpro.php:196
+#: lms/reunioes.php:345 lms/plano.php:965 lms/assunto.php:162 lms/menu.inc:30
+msgid ""
+"por favor confirme sua escolha ou cancele a opera&ccedil;&atilde;o para "
+"retornar."
+msgstr " please confirm your choice or cancel the operation to return."
+
+#: lms/alternativas.php:199 lms/aviso.php:206 lms/forum.php:260
+#: lms/material.php:555 lms/disciplina.php:236 lms/endereco.php:395
+#: lms/agenda.php:208 lms/prova.php:1970 lms/avaliacao.php:582
+#: lms/mensagem.php:388 lms/endcur.php:414 lms/equipe.php:353
+#: lms/planoensino.php:85 lms/perfil.php:120 lms/questoes.php:425
+#: lms/estudante.php:472 lms/eaddis.php:383 lms/selpro.php:199
+#: lms/reunioes.php:348 lms/plano.php:968 lms/assunto.php:165 lms/menu.inc:33
+msgid "Cancelar"
+msgstr "Cancel"
+
+#: lms/alternativas.php:200 lms/aviso.php:207 lms/forum.php:261
+#: lms/material.php:556 lms/disciplina.php:237 lms/endereco.php:396
+#: lms/agenda.php:209 lms/prova.php:1971 lms/avaliacao.php:583
+#: lms/mensagem.php:389 lms/endcur.php:415 lms/equipe.php:354
+#: lms/planoensino.php:86 lms/perfil.php:121 lms/questoes.php:426
+#: lms/estudante.php:473 lms/eaddis.php:384 lms/selpro.php:200
+#: lms/reunioes.php:349 lms/plano.php:969 lms/assunto.php:166 lms/menu.inc:34
+msgid "Confirmar"
+msgstr "Confirm"
+
+#: lms/alternativas.php:221 lms/material.php:579 lms/disciplina.php:258
+#: lms/endereco.php:418 lms/endcur.php:437 lms/restore.php:30
+#: lms/questoes.php:447 lms/estudante.php:496 lms/eaddis.php:407
+#: lms/assunto.php:187 lms/dadosdis.inc:53 lms/dadosdis.inc:65
+#: lms/dadosdis.inc:73
+msgid "Professor(a)"
+msgstr "Instructor"
+
+#: lms/alternativas.php:230 lms/alternativas.php:254 lms/prova.php:479
+#: lms/prova.php:1694 lms/prova.php:1698 lms/prova.php:1702
+#: lms/questoes.php:139 lms/questoes.php:330 lms/questoes.php:334
+#: lms/questoes.php:338
+msgid "Alternativas"
+msgstr "Alternative question"
+
+#: lms/alternativas.php:240 lms/questoes.php:277
+msgid "Quest&otilde;es dispon&iacute;veis"
+msgstr "Available questions"
+
+#: lms/alternativas.php:243 lms/prova.php:60 lms/prova.php:327
+#: lms/prova.php:339 lms/prova.php:431 lms/prova.php:1673 lms/questoes.php:20
+#: lms/questoes.php:108 lms/questoes.php:280 lms/questoes.php:456
+#: lms/menup.inc:32
+msgid "Quest&otilde;es"
+msgstr "Questions"
+
+#: lms/alternativas.php:247
+msgid "Alternativas dispon&iacute;veis"
+msgstr "Available alternatives"
+
+#: lms/alternativas.php:250
+msgid "Incluir novas alternativas"
+msgstr "Add new alternatives"
+
+#: lms/matricula.php:18
+msgid "Matr&iacute;cula"
+msgstr "Enrollment"
+
+#: lms/matricula.php:30 lms/cadastro.php:769
+msgid ""
+"Confirma&ccedil;&atilde;o de senha ou email n&atilde;o est&aacute; correta..."
+msgstr "Password or email address confirmation not correct..."
+
+#: lms/matricula.php:67
+msgid ""
+"Matr&iacute;cula realizada com sucesso. Aguarde confirma&ccedil;&atilde;o do "
+"professor."
+msgstr "Enrollment relized successfully. Wait confirmation of the instructor."
+
+#: lms/matricula.php:70 lms/cadastro.php:812
+msgid "Bem vindo ao Academusnet"
+msgstr "Welcome to Academusnet"
+
+#: lms/matricula.php:70 lms/cadastro.php:812
+msgid "Data do Cadastro"
+msgstr "Registry data"
+
+#: lms/matricula.php:71 lms/matricula.php:80 lms/cadastro.php:812
+msgid "Usuario"
+msgstr "User"
+
+#: lms/matricula.php:71 lms/matricula.php:132 lms/login.php:86
+#: lms/login.php:87 lms/cadastro.php:812 lms/perfil.php:187
+msgid "Senha"
+msgstr "Password"
+
+#: lms/matricula.php:71 lms/alterara.php:78 lms/cadastro.php:813
+msgid "RA"
+msgstr "Student identification"
+
+#: lms/matricula.php:72 lms/cadastro.php:813
+msgid "Endereco"
+msgstr "Address"
+
+#: lms/matricula.php:72 lms/matricula.php:144 lms/cadastro.php:813
+#: lms/perfil.php:202 lms/perfil.php:249 lms/perfil.inc:37
+msgid "Cidade"
+msgstr "City"
+
+#: lms/matricula.php:72 lms/matricula.php:148 lms/prova.php:1624
+#: lms/cadastro.php:814 lms/perfil.php:206 lms/perfil.php:255
+#: lms/perfil.inc:43
+msgid "Estado"
+msgstr "State"
+
+#: lms/matricula.php:72 lms/matricula.php:142 lms/cadastro.php:814
+#: lms/cadastro.php:882 lms/perfil.php:200 lms/perfil.php:258
+#: lms/perfil.inc:46
+msgid "Telefone"
+msgstr "Phone"
+
+#: lms/matricula.php:73 lms/cadastro.php:814
+msgid "Pais"
+msgstr "Country"
+
+#: lms/matricula.php:73 lms/matricula.php:80 lms/cadastro.php:814
+msgid "Profissao"
+msgstr "Instructor"
+
+#: lms/matricula.php:73 lms/matricula.php:81
+msgid "Acesse o sistema via o link"
+msgstr "Access the system through the link"
+
+#: lms/matricula.php:74
+msgid ""
+"O curso sera liberado assim que o professor responsavel aprovar a matricula. "
+"Qualquer duvida na utilizacao do sistema\tenvie um email para"
+msgstr ""
+"The course will be released as soon as the instructor responsible approve "
+"the registration. Any questions on the utilization of the system send an "
+"email to"
+
+#: lms/matricula.php:75 lms/matricula.php:82 lms/cadastro.php:815
+msgid "Bom trabalho"
+msgstr "Good job"
+
+#: lms/matricula.php:79
+msgid "Caro professor"
+msgstr "Dear Instructor"
+
+#: lms/matricula.php:79
+msgid ""
+"uma nova solicitacao de matricula aguarde sua aprovacao. Data do Cadastro"
+msgstr ""
+"a new solicitation of registration wait their approval. Date of Registration"
+
+#: lms/matricula.php:82 lms/cadastro.php:815
+msgid "Qualquer duvida na utilizacao do sistema envie um email para"
+msgstr "Any doubt in system utilization send email to"
+
+#: lms/matricula.php:92
+msgid "Usu&aacute;rio (login de acesso) j&aacute; existe ..."
+msgstr "User already exists"
+
+#: lms/matricula.php:126 lms/login.php:84 lms/login.php:85
+msgid "Usu&aacute;rio"
+msgstr "User"
+
+#: lms/matricula.php:130 lms/cadastro.php:860 lms/perfil.php:194
+msgid "Repita o e-mail"
+msgstr "Email again"
+
+#: lms/matricula.php:134
+msgid "Repita a Senha"
+msgstr "Password again"
+
+#: lms/matricula.php:136 lms/frequencia.php:120 lms/frequencia.php:122
+#: lms/frequencia.php:214 lms/prova.php:592 lms/prova.php:773
+#: lms/avaliacao.php:214 lms/alterara.php:30
+msgid "Registro"
+msgstr "Identification"
+
+#: lms/matricula.php:140 lms/perfil.php:198 lms/perfil.php:246
+#: lms/perfil.inc:34
+msgid "Endere&ccedil;o"
+msgstr "Address"
+
+#: lms/matricula.php:146 lms/cadastro.php:813 lms/perfil.php:204
+#: lms/perfil.php:252 lms/perfil.inc:40
+msgid "CEP"
+msgstr "Zip code"
+
+#: lms/matricula.php:150 lms/perfil.php:208 lms/perfil.php:261
+#: lms/perfil.inc:49
+msgid "Pa&iacute;s"
+msgstr "Country"
+
+#: lms/matricula.php:152 lms/perfil.php:210 lms/perfil.php:264
+#: lms/perfil.inc:55
+msgid "Profiss&atilde;o"
+msgstr "Profession"
+
+#: lms/matricula.php:174
+msgid "Curso/Disciplina"
+msgstr "Course/Discipline"
+
+#: lms/matricula.php:174
+msgid "Investimento"
+msgstr "Price"
+
+#: lms/matricula.php:178 lms/visitante.php:37
+msgid "Curso de"
+msgstr "Course of"
+
+#: lms/matricula.php:179
+msgid "Prof.(a)"
+msgstr "Instructor"
+
+#: lms/matricula.php:179
+msgid "Gratu&iacute;to"
+msgstr "Free"
+
+#: lms/frequencia.php:27
+msgid "Relat&oacute;rio de faltas"
+msgstr "Absents report"
+
+#: lms/frequencia.php:30 lms/frequencia.php:82 lms/frequencia.php:198
+#: lms/frequencia.php:243 lms/menu.inc:90
+msgid "Controle de frequ&ecirc;ncia"
+msgstr "Absent management"
+
+#: lms/frequencia.php:40
+msgid "Registra faltas"
+msgstr "Absent registry"
+
+#: lms/frequencia.php:43 lms/agenda.php:153 lms/prova.php:78
+#: lms/detplanprof.php:108 lms/mensagem.php:53 lms/reunioes.php:68
+#: lms/reunioes.php:209 lms/reunioes.php:289 lms/plano.php:55
+#: lms/plano.php:580 lms/plano.php:688 lms/plano.php:854
+msgid "Data"
+msgstr "Date"
+
+#: lms/frequencia.php:43 lms/frequencia.php:124
+msgid "Aula"
+msgstr "Class"
+
+#: lms/frequencia.php:62
+msgid "N&atilde;o h&aacute; aulas registradas"
+msgstr "There are not registered classes"
+
+#: lms/frequencia.php:86
+msgid "Relat&oacute;rio de Faltas"
+msgstr "Absents report"
+
+#: lms/frequencia.php:120 lms/frequencia.php:124 lms/frequencia.php:214
+msgid "Faltas"
+msgstr "Absents"
+
+#: lms/frequencia.php:155
+msgid "Total de faltas"
+msgstr "Total of absents"
+
+#: lms/frequencia.php:158
+msgid "N&atilde;o h&aacute; faltas registradas"
+msgstr "There are not registered absents"
+
+#: lms/frequencia.php:228
+msgid "N&atilde;o h&aacute; estudantes registrados"
+msgstr "There are not registered students"
+
+#: lms/aviso.php:17
+msgid "Compartilhar not&iacute;cias"
+msgstr "Share news"
+
+#: lms/aviso.php:21 lms/aviso.php:153 lms/aviso.php:219 lms/copiadis.php:327
+msgid "Feed de not&iacute;cias"
+msgstr "News feed"
+
+#: lms/aviso.php:32
+msgid "Altera o conte&uacute;do compartilhado"
+msgstr "Edit shared contents"
+
+#: lms/aviso.php:115 lms/aviso.php:132
+msgid "Campos n&atilde;o preenchidos. Os dados n&atilde;o foram alterados ..."
+msgstr "Fill all required fields..."
+
+#: lms/aviso.php:150
+msgid "Conte&uacute;do compartilhado"
+msgstr "Shared contents"
+
+#: lms/aviso.php:158 lms/eaddis.php:583 lms/eaddis.php:642 lms/plano.php:689
+#: lms/assunto.php:122
+msgid "T&iacute;tulo"
+msgstr "Title"
+
+#: lms/aviso.php:160
+msgid "Aviso/Not&iacute;cia"
+msgstr "News"
+
+#: lms/aviso.php:198 lms/forum.php:252 lms/disciplina.php:228
+#: lms/agenda.php:200 lms/prova.php:1962 lms/avaliacao.php:574
+#: lms/mensagem.php:380 lms/equipe.php:345 lms/planoensino.php:77
+#: lms/perfil.php:112 lms/selpro.php:191 lms/reunioes.php:340
+#: lms/plano.php:960 lms/menu.inc:25
+msgid "Notifica&ccedil;&atilde;o de exclus&atilde;o"
+msgstr "Exclusion notice"
+
+#: lms/aviso.php:201
+msgid "Voc&ecirc; optou por excluir um conte&uacute;do compartilhado."
+msgstr "You chose to delete a shared content."
+
+#: lms/forum.php:13
+msgid "Responder ao t&oacute;pico"
+msgstr "Answer the topic"
+
+#: lms/forum.php:15 lms/forum.php:35 lms/forum.php:183 lms/forum.php:186
+#: lms/forum.php:208 lms/menu.inc:96
+msgid "F&oacute;rum"
+msgstr "Forum"
+
+#: lms/forum.php:22
+msgid "Incluir novo t&oacute;pico"
+msgstr "Add new topic"
+
+#: lms/forum.php:78
+msgid "Exclui a mensagem"
+msgstr "Delete message"
+
+#: lms/forum.php:79
+msgid "Altera a mensagem"
+msgstr "Edit message"
+
+#: lms/forum.php:81
+msgid "Altera o t&oacute;pico"
+msgstr "Edit topic"
+
+#: lms/forum.php:82
+msgid "Responde ao t&oacute;pico"
+msgstr "Answer the topic"
+
+#: lms/forum.php:83
+msgid "Exclui o t&oacute;pico"
+msgstr "Delete topic"
+
+#: lms/forum.php:115
+msgid "N&atilde;o h&aacute; t&oacute;picos registrados ..."
+msgstr "There are not registered topics..."
+
+#: lms/forum.php:255 lms/agenda.php:203 lms/prova.php:1965
+#: lms/avaliacao.php:577 lms/mensagem.php:383 lms/plano.php:963
+msgid "Voc&ecirc; optou por excluir um compromisso."
+msgstr "You chose to delete a commitment."
+
+#: lms/forum.php:273
+msgid "F&oacute;rum de Discuss&atilde;o"
+msgstr "Forum"
+
+#: lms/material.php:17 lms/material.php:213
+msgid "Material dispon&iacute;vel"
+msgstr "Didactic material available"
+
+#: lms/material.php:21
+msgid "Associar novas refer&ecirc;ncias"
+msgstr "Associate new references"
+
+#: lms/material.php:23 lms/material.php:27
+msgid "Incluir material"
+msgstr "Add didatic material"
+
+#: lms/material.php:31 lms/material.php:216 lms/material.php:411
+#: lms/material.php:414 lms/material.php:594 lms/menup.inc:31
+msgid "Material de Apoio"
+msgstr "Didactic Material"
+
+#: lms/material.php:60 lms/material.php:419 lms/prova.php:367
+#: lms/mensagem.php:53 lms/mensagem.php:240 lms/questoes.php:42
+#: lms/eaddis.php:621 lms/plano.php:449 lms/assunto.php:20 lms/assunto.php:119
+msgid "Assunto"
+msgstr "Subject"
+
+#: lms/material.php:84
+msgid "Altera dados do material"
+msgstr "Edit didatic material"
+
+#: lms/material.php:89
+msgid "Lista disciplinas que usam o material"
+msgstr "Disciplines related to the didatic material"
+
+#: lms/material.php:168 lms/plano.php:207
+msgid "N&atilde;o h&aacute; material registrado"
+msgstr "There are not registered didatic material"
+
+#: lms/material.php:179 lms/endereco.php:199 lms/endereco.php:588
+#: lms/prova.php:539 lms/endcur.php:99 lms/endcur.php:186 lms/equipe.php:153
+#: lms/estudante.php:230 lms/eaddis.php:682 lms/selpro.php:84
+#: lms/plano.php:217 lms/plano.php:482 lms/plano.php:611
+msgid "Desassociar"
+msgstr "Disassociate"
+
+#: lms/material.php:181 lms/endereco.php:201 lms/endereco.php:369
+#: lms/endereco.php:590 lms/prova.php:537 lms/endcur.php:101
+#: lms/endcur.php:188 lms/endcur.php:388 lms/equipe.php:151
+#: lms/estudante.php:232 lms/eaddis.php:684 lms/selpro.php:82
+#: lms/plano.php:219 lms/plano.php:484 lms/plano.php:613
+msgid "Associar"
+msgstr "Associate"
+
+#: lms/material.php:383 lms/material.php:400 lms/prova.php:1034
+#: lms/prova.php:1051 lms/eaddis.php:316 lms/eaddis.php:335 lms/plano.php:251
+#: lms/plano.php:268 lms/plano.php:516 lms/plano.php:533 lms/plano.php:646
+#: lms/plano.php:663
+msgid "Selecione ao menos uma refer&ecirc;ncia ..."
+msgstr "Select a reference"
+
+#: lms/material.php:430 lms/prova.php:1720 lms/questoes.php:301
+#: lms/eaddis.php:598
+msgid "Novo assunto"
+msgstr "New subject"
+
+#: lms/material.php:505 lms/plano.php:718
+msgid "Observa&ccedil;&otilde;es"
+msgstr "Observations"
+
+#: lms/material.php:550
+msgid "Voc&ecirc; optou por excluir material de apoio."
+msgstr "You chose to delete didatic material."
+
+#: lms/tesdo.php:25
+msgid "Data Limite para Desenvolvimento"
+msgstr "End date"
+
+#: lms/tesdo.php:51
+msgid "Valor da questao"
+msgstr "Value"
+
+#: lms/tesdo.php:65 lms/tesdo.php:98
+msgid "Resposta"
+msgstr "Answer"
+
+#: lms/tesdo.php:106
+msgid "Exercicio Academusnet"
+msgstr "Academusnet activity"
+
+#: lms/tesdo.php:135 lms/tesdo.php:150
+msgid "Falha na remo&ccedil;&atilde;o do arquivo ..."
+msgstr "The delete of the file failed..."
+
+#: lms/tesdo.php:159
+msgid "Arquivo muito grande ..."
+msgstr "File very big."
+
+#: lms/tesdo.php:170
+msgid "Falha na substitui&ccedil;&atilde;o do arquivo ..."
+msgstr "The substitution of the file failed..."
+
+#: lms/tesdo.php:186
+msgid "Falha na c&oacute;pia do arquivo ..."
+msgstr "The copy of the file failed..."
+
+#: lms/tesdo.php:238 lms/tesdo.php:393
+msgid ""
+"Esta atividade n&atilde;o est&aacute; programada para ser desenvolvida "
+"individualmente ..."
+msgstr "This activitie does not planed to be developed by single."
+
+#: lms/tesdo.php:269 lms/prova.php:1234 lms/prova.php:1264 lms/prova.php:1292
+#: lms/prova.php:1472 lms/prova.php:1520 lms/prova.php:1553 lms/prova.php:1583
+msgid "Ponto(s)"
+msgstr "Value"
+
+#: lms/tesdo.php:309
+msgid "Utilize servi&ccedil;os de armazenamento em nuvem como"
+msgstr "Use cloud storage services like"
+
+#: lms/tesdo.php:309
+msgid "e outros"
+msgstr "and others"
+
+#: lms/tesdo.php:329
+msgid "Link do arquivo"
+msgstr "Link of the file"
+
+#: lms/tesdo.php:449
+msgid "Desempenho na compet&ecirc;ncia"
+msgstr "Performance in the competence"
+
+#: lms/tesdo.php:453 lms/tesdo.php:515 lms/prova.php:402 lms/prova.php:496
+#: lms/prova.php:583 lms/prova.php:764 lms/prova.php:1761 lms/prova.php:1835
+#: lms/questoes.php:77 lms/questoes.php:154 lms/questoes.php:357
+#: lms/plano.php:727 lms/plano.php:908
+msgid "Conhecimento"
+msgstr "Knowledge"
+
+#: lms/tesdo.php:456 lms/tesdo.php:518 lms/prova.php:405 lms/prova.php:499
+#: lms/prova.php:584 lms/prova.php:765 lms/prova.php:1764 lms/prova.php:1850
+#: lms/questoes.php:80 lms/questoes.php:157 lms/questoes.php:360
+#: lms/plano.php:730 lms/plano.php:910
+msgid "Compreens&atilde;o"
+msgstr "Comprehension"
+
+#: lms/tesdo.php:459 lms/tesdo.php:521 lms/prova.php:408 lms/prova.php:502
+#: lms/prova.php:585 lms/prova.php:766 lms/prova.php:1767 lms/prova.php:1865
+#: lms/questoes.php:83 lms/questoes.php:160 lms/questoes.php:363
+#: lms/plano.php:733 lms/plano.php:912
+msgid "Aplica&ccedil;&atilde;o"
+msgstr "Application"
+
+#: lms/tesdo.php:462 lms/tesdo.php:524 lms/prova.php:411 lms/prova.php:505
+#: lms/prova.php:586 lms/prova.php:767 lms/prova.php:1770 lms/prova.php:1880
+#: lms/questoes.php:86 lms/questoes.php:163 lms/questoes.php:366
+#: lms/plano.php:736 lms/plano.php:914
+msgid "An&aacute;lise"
+msgstr "Analysis"
+
+#: lms/tesdo.php:465 lms/tesdo.php:527 lms/prova.php:414 lms/prova.php:508
+#: lms/prova.php:587 lms/prova.php:768 lms/prova.php:1641 lms/prova.php:1773
+#: lms/prova.php:1895 lms/copiadis.php:326 lms/avaliacao.php:28
+#: lms/avaliacao.php:185 lms/avaliacao.php:259 lms/avaliacao.php:595
+#: lms/questoes.php:89 lms/questoes.php:166 lms/questoes.php:369
+#: lms/plano.php:739 lms/plano.php:916 lms/menu.inc:81
+msgid "Avalia&ccedil;&atilde;o"
+msgstr "Grading"
+
+#: lms/tesdo.php:468 lms/tesdo.php:530 lms/prova.php:417 lms/prova.php:511
+#: lms/prova.php:588 lms/prova.php:769 lms/prova.php:1776 lms/prova.php:1910
+#: lms/questoes.php:92 lms/questoes.php:169 lms/questoes.php:372
+#: lms/plano.php:742 lms/plano.php:918
+msgid "S&iacute;ntese"
+msgstr "Synthesis"
+
+#: lms/tesdo.php:472 lms/prova.php:1824
+msgid "Peso"
+msgstr "Weight"
+
+#: lms/tesdo.php:472
+msgid "Desempenho m&iacute;nimo"
+msgstr "Minimum performance"
+
+#: lms/tesdo.php:478
+msgid "Desempenho geral alcan&ccedil;ado at&eacute; o momento:"
+msgstr "General performance achieved at moment:"
+
+#: lms/tesdo.php:500
+msgid "Pontos"
+msgstr "Value"
+
+#: lms/tesdo.php:501
+msgid "Acumulado"
+msgstr "Accumulated"
+
+#: lms/tesdo.php:599 lms/eaddis.php:521 lms/plano.php:844 lms/plano.php:847
+msgid "Plano de aula"
+msgstr "Lesson plan"
+
+#: lms/tesdo.php:603 lms/prova.php:84 lms/prova.php:1614 lms/prova.php:1676
+msgid "Atividade"
+msgstr "Activitie"
+
+#: lms/disciplina.php:9 lms/restore.php:11 lms/questoes.php:10
+#: lms/assunto.php:10
+msgid "Sess&atilde;o Expirada. Fa&ccedil;a um novo"
+msgstr "Session expired. Make a new"
+
+#: lms/disciplina.php:33 lms/detplanprof.php:37
+msgid "Carga hor&aacute;ria"
+msgstr "Workload"
+
+#: lms/disciplina.php:34
+msgid "Faltas poss&iacute;veis"
+msgstr "Absents limit"
+
+#: lms/disciplina.php:35
+msgid "Visitantes"
+msgstr "Visitor"
+
+#: lms/disciplina.php:36
+msgid "Matr&iacute;culas"
+msgstr "Enrollment"
+
+#: lms/disciplina.php:37
+msgid "Titular"
+msgstr "Holder"
+
+#: lms/disciplina.php:86
+msgid "N&atilde;o h&aacute; disciplinas registradas"
+msgstr "There are not registered disciplines"
+
+#: lms/disciplina.php:162 lms/disciplina.php:186 lms/endcur.php:226
+#: lms/endcur.php:245 lms/endcur.php:263 lms/endcur.php:297
+msgid "Opera&ccedil;&atilde;o n&atilde;o realizada ..."
+msgstr "Operation not realized..."
+
+#: lms/disciplina.php:163 lms/disciplina.php:187
+msgid "Selecione corretamente a institui&ccedil;&atilde;o e o curso"
+msgstr "Select the institution and the course"
+
+#: lms/disciplina.php:231
+msgid "Voc&ecirc; optou por excluir uma disciplina."
+msgstr "You chose to delete a discipline"
+
+#: lms/disciplina.php:265 lms/disciplina.php:315 lms/disciplina.php:322
+#: lms/visitante.php:33 lms/menup.inc:26
+msgid "Disciplinas"
+msgstr "Disciplines"
+
+#: lms/disciplina.php:318
+msgid "Incluir novas disciplinas"
+msgstr "Add new disciplines"
+
+#: lms/disciplina.php:335
+msgid "Asterisco"
+msgstr "Asterisk"
+
+#: lms/disciplina.php:335
+msgid "indica campo obrigat&oacute;rio."
+msgstr "means required field."
+
+#: lms/disciplina.php:336
+msgid ""
+"Informe 00/00/0000 em data inicial e final para disponibilizar o ambiente "
+"por tempo indeterminado."
+msgstr ""
+"Fill zeros in begin and end date for mantaining the enverionment for "
+"indeterminated time."
+
+#: lms/disciplina.php:338 lms/disciplina.php:341 lms/endereco.php:56
+#: lms/endereco.php:613 lms/copiadis.php:273 lms/altdisvin.php:45
+#: lms/endcur.php:513 lms/endcur.php:516 lms/cadastro.php:33
+#: lms/cadastro.php:102 lms/cadastro.php:118 lms/cadastro.php:126
+#: lms/cadastro.php:129 lms/cadastro.php:231 lms/cadastro.php:239
+#: lms/cadastro.php:322 lms/cadastro.php:326 lms/cadastro.php:464
+#: lms/cadastro.php:468 lms/cadastro.php:555 lms/cadastro.php:559
+#: lms/estudante.php:572 lms/estudante.php:574
+msgid "Institui&ccedil;&atilde;o"
+msgstr "Institution"
+
+#: lms/disciplina.php:356 lms/endereco.php:622 lms/copiadis.php:278
+#: lms/altdisvin.php:49 lms/endcur.php:534 lms/estudante.php:589
+#: lms/estudante.php:682 lms/estudante.php:732
+msgid "Selecione uma institui&ccedil;&atilde;o"
+msgstr "Select a institution"
+
+#: lms/disciplina.php:373 lms/disciplina.php:429 lms/endereco.php:572
+#: lms/endcur.php:551 lms/endcur.php:564 lms/plano.php:893
+msgid "Projeto did&aacute;tico pedag&oacute;gico institucional"
+msgstr "Institutional pedagogical didactic project"
+
+#: lms/disciplina.php:387 lms/disciplina.php:389 lms/copiadis.php:290
+#: lms/altdisvin.php:60 lms/endcur.php:48 lms/endcur.php:574
+#: lms/cadastro.php:202 lms/cadastro.php:225 lms/cadastro.php:348
+#: lms/cadastro.php:490
+msgid "Curso"
+msgstr "Course"
+
+#: lms/disciplina.php:399 lms/copiadis.php:295 lms/altdisvin.php:64
+#: lms/endcur.php:583
+msgid "Selecione um curso"
+msgstr "Select a course"
+
+#: lms/disciplina.php:416 lms/disciplina.php:433 lms/endcur.php:366
+#: lms/plano.php:897
+msgid "Projeto pedag&oacute;gico de curso"
+msgstr "Pedagogical project course"
+
+#: lms/endereco.php:44
+msgid "Altera dados da institui&ccedil;&atilde;o"
+msgstr "Edit institution data"
+
+#: lms/endereco.php:114 lms/endereco.php:454 lms/endcur.php:500
+msgid "Administradores"
+msgstr "Administrators"
+
+#: lms/endereco.php:116
+msgid "Administrador"
+msgstr "Administrator"
+
+#: lms/endereco.php:118
+msgid "Administrador: sem administrador definido"
+msgstr "Administrator: no administrator defined"
+
+#: lms/endereco.php:139
+msgid "N&atilde;o h&aacute; institui&ccedil;&otilde;es registradas ..."
+msgstr "There are not registered institutions ..."
+
+#: lms/endereco.php:141
+msgid "N&atilde;o h&aacute; institui&ccedil;&otilde;es associadas ..."
+msgstr "There are not associated Institutions..."
+
+#: lms/endereco.php:174 lms/endcur.php:48 lms/endcur.php:161
+msgid "&Uacute;ltimo acesso"
+msgstr "Last access"
+
+#: lms/endereco.php:216 lms/endcur.php:203
+msgid "Sem administradores associados."
+msgstr "No administrators."
+
+#: lms/endereco.php:236
+msgid ""
+"Voc&ecirc; n&atilde;o &eacute; administrador da institui&ccedil;&atilde;o. "
+"Exclus&atilde;o n&atilde;o permitida..."
+msgstr "You are not administrator of the institution. Exclusion not allowed..."
+
+#: lms/endereco.php:242
+msgid ""
+"H&aacute; outros professores associados a essa institui&ccedil;&atilde;o. "
+"Exclus&atilde;o n&atilde;o permitida..."
+msgstr "Institution is in use."
+
+#: lms/endereco.php:389
+msgid ""
+"Voc&ecirc; optou por excluir uma institui&ccedil;&atilde;o ou se desassociar "
+"dela."
+msgstr "You decide to delete or desassociate a institution."
+
+#: lms/endereco.php:390
+msgid ""
+"Todos os seus dados que est&atilde;o vinculados a institui&ccedil;&atilde;o "
+"ser&atilde;o eliminados. "
+msgstr "All data related to the institution will be deleted."
+
+#: lms/endereco.php:427 lms/endereco.php:459 lms/principal.php:461
+#: lms/alterara.php:22 lms/menup.inc:29
+msgid "Institui&ccedil;&otilde;es"
+msgstr "Institutions"
+
+#: lms/endereco.php:434 lms/endereco.php:439 lms/endereco.php:446
+msgid "Institui&ccedil;&otilde;es associadas"
+msgstr "Associated institutions"
+
+#: lms/endereco.php:436 lms/endereco.php:451
+msgid "Institui&ccedil;&otilde;es cadastradas"
+msgstr "Registered institutions"
+
+#: lms/endereco.php:442
+msgid "Incluir novas institui&ccedil;&otilde;es"
+msgstr "Add new institutions"
+
+#: lms/endereco.php:448 lms/endcur.php:492
+msgid "Definir administradores"
+msgstr "Define administrators"
+
+#: lms/agenda.php:17
+msgid "Incluir novos compromissos"
+msgstr "Add new commitment"
+
+#: lms/agenda.php:21 lms/agenda.php:221 lms/copiadis.php:324
+#: lms/detplanprof.php:106 lms/menu.inc:75
+msgid "Agenda"
+msgstr "Schedule"
+
+#: lms/agenda.php:33
+msgid "Altera dados do compromisso"
+msgstr "Edit commitment"
+
+#: lms/agenda.php:146
+msgid "Compromissos agendados"
+msgstr "Scheduled commitment"
+
+#: lms/agenda.php:155 lms/detplanprof.php:108
+msgid "Compromisso"
+msgstr "Commitment"
+
+#: lms/agenda.php:157
+msgid "Detalhes sobre o compromisso"
+msgstr "Commitment details"
+
+#: lms/visitante.php:22
+msgid "Disciplinas e cursos abertos a visitantes"
+msgstr "Opened disciplines and courses"
+
+#: lms/visitante.php:44
+msgid ""
+"N&atilde;o h&aacute; cursos ou disciplinas abertos a visitantes no momento"
+msgstr "There are not opened courses and disciplines at moment"
+
+#: lms/principal.php:18
+msgid "Usu&aacute;rio inexistente ou senha incorreta."
+msgstr "User nonexistent or bad password."
+
+#: lms/principal.php:30
+msgid "Ambientes de aprendizagem"
+msgstr "Learning environments"
+
+#: lms/principal.php:50
+msgid "Disciplinas sem institui&ccedil;&atilde;o vinculada"
+msgstr "Disciplines without bound institution"
+
+#: lms/principal.php:99
+msgid "Alterar registro"
+msgstr "Change student Identification"
+
+#: lms/principal.php:117
+msgid "Disciplinas sem curso vinculado"
+msgstr "Disciplines without bound institution"
+
+#: lms/principal.php:212
+msgid "Ambientes compartilhados"
+msgstr "Shared environments"
+
+#: lms/principal.php:234
+msgid "Ambientes sob sua administra&ccedil;&atilde;o"
+msgstr "Environment under your management"
+
+#: lms/principal.php:263
+msgid "Sem institui&ccedil;&otilde;es vinculadas ..."
+msgstr "No associated institutions..."
+
+#: lms/principal.php:278 lms/cadastro.php:835
+msgid ""
+"Preencha o formul&aacute;rio abaixo para solicitar o cadastramento de uma "
+"nova institui&ccedil;&atilde;o ou curso."
+msgstr ""
+"Complete the form below to request the registration of a new institution or "
+"course."
+
+#: lms/principal.php:279
+msgid "&Eacute; gratu&iacute;to."
+msgstr "That's free. "
+
+#: lms/principal.php:279
+msgid ""
+"Forne&ccedil;a todos os dados necess&aacute;rios tais como nome, "
+"endere&ccedil;o completo e p&aacute;gina de Internet,"
+msgstr "Provide all necessary data such as name, full address and website, "
+
+#: lms/principal.php:280
+msgid ""
+"al&eacute;m do nome dos cursos. Todos os campos que precedem de asterisco "
+"(*) s&atilde;o obrigat&oacute;rios."
+msgstr ""
+"and the name of the courses. All fields preceding asterisk (*) are required. "
+
+#: lms/principal.php:281 lms/principal.php:286
+msgid "Dentro de muito em breve, entraremos em contato."
+msgstr "As soon as possible, we will make contact."
+
+#: lms/principal.php:283
+msgid "Preencha o formul&aacute;rio abaixo para solicitar ajuda."
+msgstr "Complete the form below to request help."
+
+#: lms/principal.php:284
+msgid "Forne&ccedil;a todos os dados necess&aacute;rios."
+msgstr "Provide all necessary data."
+
+#: lms/principal.php:285
+msgid ""
+"Todos os campos que precedem de asterisco (*) s&atilde;o obrigat&oacute;rios."
+msgstr "All field preceding asterisk (*) are required. "
+
+#: lms/principal.php:290 lms/cadastro.php:856
+msgid "Nome completo"
+msgstr "Name"
+
+#: lms/principal.php:294
+msgid "Repita o email"
+msgstr "Email again"
+
+#: lms/principal.php:298 lms/cadastro.php:864
+msgid "Telefone para contato"
+msgstr "Contact phone"
+
+#: lms/principal.php:300 lms/cadastro.php:866
+msgid "V&iacute;nculo com a institui&ccedil;&atilde;o"
+msgstr "Bond with the institution"
+
+#: lms/principal.php:302 lms/cadastro.php:868
+msgid "Dados da institui&ccedil;&atilde;o"
+msgstr "Institution data"
+
+#: lms/principal.php:306 lms/cadastro.php:871
+msgid "D&uacute;vidas"
+msgstr "Doubts"
+
+#: lms/principal.php:363
+msgid ""
+"Devido ao longo tempo de inatividade ou por algum erro durante o acesso ao "
+"sistema,"
+msgstr ""
+"Because of the long downtime or for any errors while accessing the system,"
+
+#: lms/principal.php:364
+msgid "a sess&atilde;o foi cancelada por motivos de seguran&ccedil;a."
+msgstr "the session was canceled for security reasons."
+
+#: lms/principal.php:364
+msgid "Clique aqui para sair"
+msgstr "Click here to exit"
+
+#: lms/principal.php:425 lms/principal.php:430
+#, php-format
+msgid "Nome: %s"
+msgstr "Name: %s"
+
+#: lms/principal.php:426 lms/principal.php:430
+#, php-format
+msgid "email: %s"
+msgstr "email: %s"
+
+#: lms/principal.php:426
+#, php-format
+msgid "Telefone: %s"
+msgstr "Phone: %s"
+
+#: lms/principal.php:426
+#, php-format
+msgid "Vinculo: %s"
+msgstr "Bond: %s"
+
+#: lms/principal.php:427 lms/principal.php:431
+#, php-format
+msgid "Dados:%s"
+msgstr "Data: %s"
+
+#: lms/principal.php:428
+#, php-format
+msgid "Solicitacao de cadastramento de instituicao e/ou cursos"
+msgstr "Request to register institutions and/or courses"
+
+#: lms/principal.php:432
+#, php-format
+msgid "Solicitacao de ajuda"
+msgstr "Help request"
+
+#: lms/principal.php:436
+msgid "Solicita&ccedil;&atilde;o enviada com sucesso ..."
+msgstr "Request sent with success ..."
+
+#: lms/principal.php:437
+msgid ""
+"Aguarde, dentro de muito em breve faremos contato. Obrigado pelo seu "
+"interesse nos servi&ccedil;os do Academusnet."
+msgstr ""
+"Wait, we will make contact as soon as possible. Thank you for your intereste "
+"in our services."
+
+#: lms/principal.php:438 lms/detplanprof.php:140 lms/perfil.php:23
+#: lms/perfil.php:174 lms/perfil.php:176
+msgid "Voltar"
+msgstr "Return"
+
+#: lms/principal.php:449
+msgid "Professor(a): "
+msgstr "Instructor: "
+
+#: lms/principal.php:454
+msgid ""
+"Para criar disciplinas com base em alguma j&aacute; existente, acesse o "
+"ambiente da disciplina e clique em [Copiar]"
+msgstr ""
+"To create disciplines based on some existing, visit its environment and "
+"click [Copy]"
+
+#: lms/principal.php:455
+msgid "Qualquer d&uacute;vida, entre em contato com o suporte "
+msgstr "Any doubt, please make contact to the suport "
+
+#: lms/principal.php:456
+msgid "clicando aqui"
+msgstr "clicking here"
+
+#: lms/principal.php:459 lms/alterara.php:20 lms/cabecalho.php:126
+#: lms/cadastro.php:702
+msgid "Perfil"
+msgstr "Profile"
+
+#: lms/principal.php:462 lms/alterara.php:23
+msgid "Matricular-se"
+msgstr "Enroll"
+
+#: lms/principal.php:463 lms/alterara.php:24
+msgid ""
+"Somente ser&atilde;o listados aqui as disciplinas em que voc&ecirc; foi "
+"incluido como estudante pelos professores"
+msgstr ""
+"Will only be listed here the disciplines in which you were included as "
+"student for your professors"
+
+#: lms/principal.php:464 lms/alterara.php:25
+msgid "ou cursos livres os quais seu pedido de matr&iacute;cula foi aceito."
+msgstr "or free courses which your enrollment request was accepted."
+
+#: lms/prova.php:36
+msgid "Incluir novas atividades"
+msgstr "Add new activities"
+
+#: lms/prova.php:38
+msgid "Relat&oacute;rio geral"
+msgstr "General report"
+
+#: lms/prova.php:59
+msgid "Alterar a atividade"
+msgstr "Edit activity"
+
+#: lms/prova.php:62
+msgid "Visualizar a atividade"
+msgstr "View activity"
+
+#: lms/prova.php:64
+msgid "Corrigir a atividade"
+msgstr "Correct activity"
+
+#: lms/prova.php:66
+msgid "Fazer a atividade"
+msgstr "To do activity"
+
+#: lms/prova.php:69
+msgid "Relat&oacute;rio avaliativo"
+msgstr "Grade report"
+
+#: lms/prova.php:81 lms/plano.php:58 lms/plano.php:852
+msgid "Visualiza&ccedil;&atilde;o a partir de..."
+msgstr "View since..."
+
+#: lms/prova.php:87 lms/prova.php:594 lms/prova.php:775 lms/avaliacao.php:214
+#: lms/avaliacao.php:292
+msgid "Nota"
+msgstr "Grade"
+
+#: lms/prova.php:133 lms/prova.php:1627 lms/prova.php:1632 lms/prova.php:1636
+msgid "Em andamento"
+msgstr "Opended"
+
+#: lms/prova.php:135 lms/prova.php:138 lms/prova.php:1628 lms/prova.php:1633
+#: lms/prova.php:1637
+msgid "Em corre&ccedil;&atilde;o"
+msgstr "In correction"
+
+#: lms/prova.php:140 lms/prova.php:1629 lms/prova.php:1638
+msgid "Corrigido"
+msgstr "Corrected"
+
+#: lms/prova.php:146
+msgid "Individual"
+msgstr "Individual"
+
+#: lms/prova.php:148 lms/prova.php:1645 lms/prova.php:1648
+msgid "Em equipe"
+msgstr "By team"
+
+#: lms/prova.php:193 lms/prova.php:309
+msgid "N&atilde;o h&aacute; atividades registradas"
+msgstr "There are not registered activities ..."
+
+#: lms/prova.php:333
+msgid "Associar novas quest&otilde;es"
+msgstr "Associate new questions"
+
+#: lms/prova.php:335
+msgid "Criar novas quest&otilde;es"
+msgstr "Create new questions"
+
+#: lms/prova.php:388
+msgid "Habilidade, segundo Taxonomia de Bloom"
+msgstr "Ability, acording Bloom's Taxonomy"
+
+#: lms/prova.php:427 lms/questoes.php:104
+msgid "Altera dados da quest&atilde;o"
+msgstr "Edit questions"
+
+#: lms/prova.php:428 lms/questoes.php:105
+msgid "Inclus&atilde;o de alternativas"
+msgstr "Add options"
+
+#: lms/prova.php:434 lms/prova.php:1789
+msgid "Valor"
+msgstr "Value"
+
+#: lms/prova.php:481 lms/prova.php:1253 lms/prova.php:1255 lms/prova.php:1542
+#: lms/prova.php:1695 lms/prova.php:1699 lms/prova.php:1703
+#: lms/restore.php:117 lms/questoes.php:141 lms/questoes.php:331
+#: lms/estudante.php:742
+msgid "Arquivo"
+msgstr "File"
+
+#: lms/prova.php:483 lms/prova.php:1696 lms/prova.php:1700 lms/prova.php:1704
+#: lms/questoes.php:143 lms/questoes.php:332
+msgid "Descritiva"
+msgstr "Descriptive"
+
+#: lms/prova.php:526 lms/questoes.php:114 lms/questoes.php:180
+msgid "N&atilde;o h&aacute; quest&otilde;es registradas"
+msgstr "There are not registered questions."
+
+#: lms/prova.php:582 lms/prova.php:763
+msgid "Legenda:"
+msgstr "Legend"
+
+#: lms/prova.php:730 lms/prova.php:879
+msgid "M&Eacute;DIA:"
+msgstr "Average"
+
+#: lms/prova.php:956
+msgid ""
+"Campos obrigat&oacute;rios n&atilde;o foram preenchidos. Os dados n&atilde;o "
+"foram inclu&iacute;dos"
+msgstr "Required fields was not provided. Operation cancelled."
+
+#: lms/prova.php:1122
+msgid "Atividades para corrigir"
+msgstr "Activities to correct"
+
+#: lms/prova.php:1125
+msgid "Corre&ccedil;&atilde;o de Atividades"
+msgstr "Activities correction"
+
+#: lms/prova.php:1236 lms/prova.php:1266 lms/prova.php:1294 lms/prova.php:1527
+#: lms/prova.php:1560 lms/prova.php:1590 lms/plano.php:870
+msgid "Coment&aacute;rio"
+msgstr "Comment"
+
+#: lms/prova.php:1422
+msgid "Visualiza&ccedil;&atilde;o de Atividades"
+msgstr "Activities view"
+
+#: lms/prova.php:1618
+msgid "Prazo"
+msgstr "End date"
+
+#: lms/prova.php:1620
+msgid "Visualiza&ccedil;&atilde;o a partir de"
+msgstr "View since"
+
+#: lms/prova.php:1644 lms/prova.php:1647
+msgid "Invidual"
+msgstr "By single"
+
+#: lms/prova.php:1681
+msgid "Quest&atilde;o (Obs: Caso seja necess&aacute;rio, utilize o"
+msgstr "Question (Obs: case necessary, use the"
+
+#: lms/prova.php:1686 lms/questoes.php:326
+msgid "Tipo"
+msgstr "Type"
+
+#: lms/prova.php:1743 lms/questoes.php:344
+msgid "Habilidades, segundo Taxonomia de Bloom"
+msgstr "Abilities, acording to Bloom's Taxonomy"
+
+#: lms/prova.php:1793 lms/questoes.php:380
+msgid "Resposta ou Coment&aacute;rio"
+msgstr "Answer or comment"
+
+#: lms/prova.php:1816
+msgid "Estrat&eacute;gia avaliativa"
+msgstr "Assessment strategy"
+
+#: lms/prova.php:1824
+msgid "Compet&ecirc;ncias"
+msgstr "Competences"
+
+#: lms/copiadis.php:20
+msgid "H&aacute; campos n&atilde;o preenchidos ..."
+msgstr "Fill all required field ..."
+
+#: lms/copiadis.php:240 lms/copiadis.php:243 lms/diario.php:156
+msgid "Duplica&ccedil;&atilde;o de ambiente"
+msgstr "Duplicate environment"
+
+#: lms/copiadis.php:311
+msgid "Nome da nova disciplina"
+msgstr "Discipline name"
+
+#: lms/copiadis.php:313
+msgid "Carga Hor&aacute;ria"
+msgstr "Workload"
+
+#: lms/copiadis.php:315
+msgid "Faltas Poss&iacute;veis"
+msgstr "Absents limit"
+
+#: lms/copiadis.php:319
+msgid "Data Inicial"
+msgstr "Begin date"
+
+#: lms/copiadis.php:321
+msgid "Data Final"
+msgstr "End date"
+
+#: lms/copiadis.php:323
+msgid "Elementos a serem copiados"
+msgstr "Modules to copy"
+
+#: lms/copiadis.php:329 lms/eaddis.php:422 lms/eaddis.php:567
+#: lms/eaddis.php:661 lms/menu.inc:99 lms/menup.inc:28
+msgid "Hipertextos"
+msgstr "Hypertexts"
+
+#: lms/copiadis.php:331 lms/menu.inc:105
+msgid "Material de apoio"
+msgstr "Didactic material"
+
+#: lms/copiadis.php:332 lms/planoensino.php:98 lms/planoensino.php:159
+#: lms/planoensino.php:228 lms/planoensino.php:245 lms/planoensino.php:248
+#: lms/menu.inc:114
+msgid "Plano de ensino"
+msgstr "Syllabus"
+
+#: lms/copiadis.php:334 lms/selpro.php:212 lms/menu.inc:128
+msgid "Professores"
+msgstr "Instructors"
+
+#: lms/avaliacao.php:22 lms/avaliacao.php:344 lms/avaliacao.php:517
+msgid "Relat&oacute;rio de notas"
+msgstr "Grade report"
+
+#: lms/avaliacao.php:24
+msgid "Incluir novas avalia&ccedil;&otilde;es"
+msgstr "Add new grading component"
+
+#: lms/avaliacao.php:39
+msgid "Altera a avalia&ccedil;&atilde;o"
+msgstr "Edit grading component"
+
+#: lms/avaliacao.php:141 lms/avaliacao.php:408
+msgid "Notal Final"
+msgstr "Final grade"
+
+#: lms/avaliacao.php:144 lms/avaliacao.php:413
+msgid "M&eacute;dia"
+msgstr "Final grade"
+
+#: lms/avaliacao.php:182 lms/avaliacao.php:256 lms/avaliacao.php:341
+#: lms/avaliacao.php:514
+msgid "Itens de avalia&ccedil;&atilde;o"
+msgstr "Grading components"
+
+#: lms/avaliacao.php:239
+msgid "N&atilde;o h&aacute; estudantes registrados ..."
+msgstr "There are not registered students ..."
+
+#: lms/avaliacao.php:292 lms/reunioes.php:215 lms/reunioes.php:270
+msgid "Equipe"
+msgstr "Team"
+
+#: lms/avaliacao.php:324
+msgid "N&atilde;o h&aacute; equipes registradas ..."
+msgstr "There are not registered teams ..."
+
+#: lms/login.php:83
+msgid "Por favor efetue seu login"
+msgstr "Please, log in"
+
+#: lms/menuconfig.php:51
+msgid "Configura&ccedil;&atilde;o de recursos"
+msgstr "Resources set up"
+
+#: lms/menuconfig.php:54
+msgid "Sele&ccedil;&atilde;o de recursos"
+msgstr "Resources request"
+
+#: lms/alterara.php:83
+msgid "Dados apresentando inconsist&ecirc;ncia ..."
+msgstr "Presenting data inconsistency ..."
+
+#: lms/detplanprof.php:34
+msgid "Painel de monitoramento"
+msgstr "Dashboard"
+
+#: lms/detplanprof.php:42
+msgid "N&uacute;mero de faltas previstas permitidas"
+msgstr "Limit of absents"
+
+#: lms/detplanprof.php:54 lms/detplanprof.php:58
+msgid "At&eacute; o momento h&aacute;"
+msgstr "At this moment there are"
+
+#: lms/detplanprof.php:56
+msgid "uma"
+msgstr "one"
+
+#: lms/detplanprof.php:56
+msgid "falta registrada."
+msgstr "registered absent."
+
+#: lms/detplanprof.php:60
+msgid "faltas registradas."
+msgstr "Registered absents."
+
+#: lms/detplanprof.php:63
+msgid "At&eacute; o momento n&atilde;o h&aacute; faltas registradas."
+msgstr "There are not registered absents."
+
+#: lms/detplanprof.php:87
+msgid "N&atilde;o h&aacute; mensagens n&atilde;o lidas na sua caixa postal."
+msgstr "There are not unread messages."
+
+#: lms/detplanprof.php:90
+msgid "H&aacute; uma"
+msgstr "There is "
+
+#: lms/detplanprof.php:90
+msgid "mensagem"
+msgstr "message"
+
+#: lms/detplanprof.php:91
+msgid "n&atilde;o lida na sua caixa postal."
+msgstr "not read in the inbox."
+
+#: lms/detplanprof.php:93
+msgid "H&aacute; "
+msgstr "There is "
+
+#: lms/detplanprof.php:94
+msgid "mensagens n&atilde;o lidas na sua caixa postal."
+msgstr "unread messages"
+
+#: lms/detplanprof.php:124
+msgid "Feed de Not&iacute;cias"
+msgstr "News feed"
+
+#: lms/mensagem.php:16
+msgid "Escrever uma mensagem"
+msgstr "Write a message"
+
+#: lms/mensagem.php:18
+msgid "Mensagens enviadas"
+msgstr "Outbox"
+
+#: lms/mensagem.php:20
+msgid "Mensagens recebidas"
+msgstr "Inbox"
+
+#: lms/mensagem.php:23 lms/mensagem.php:110 lms/mensagem.php:113
+#: lms/mensagem.php:266 lms/mensagem.php:269 lms/mensagem.php:401
+#: lms/menu.inc:108
+msgid "Mensagens"
+msgstr "Messages"
+
+#: lms/mensagem.php:53
+msgid "De"
+msgstr "From"
+
+#: lms/mensagem.php:82
+msgid "N&atilde;o h&aacute; mensagens"
+msgstr "There are not registered messagens..."
+
+#: lms/cabecalho.php:87
+msgid "Principal"
+msgstr "Home"
+
+#: lms/cabecalho.php:88
+msgid "Suporte"
+msgstr "Suport"
+
+#: lms/cabecalho.php:99
+msgid "Interface"
+msgstr "Interface"
+
+#: lms/cabecalho.php:102 lms/cadastro.php:706 lms/selpro.php:22
+msgid "Professor"
+msgstr "Instructor"
+
+#: lms/cabecalho.php:103 lms/cadastro.php:708
+msgid "Aluno"
+msgstr "Student"
+
+#: lms/cabecalho.php:109
+msgid "Idioma"
+msgstr "Language"
+
+#: lms/cabecalho.php:138
+msgid "Sair"
+msgstr "Exit"
+
+#: lms/altdisvin.php:15
+msgid "Os dados n&atilde;o foram inclu&iacute;dos ..."
+msgstr "Data not registered."
+
+#: lms/altdisvin.php:31
+msgid "Transfer&ecirc;ncia de ambiente"
+msgstr "Environment transfer"
+
+#: lms/altdisvin.php:34
+msgid "Transfer&ecirc;ncia"
+msgstr "Transfer"
+
+#: lms/endcur.php:31
+msgid "Altera dados do curso"
+msgstr "Edit course"
+
+#: lms/endcur.php:48
+msgid "Administrador(es)"
+msgstr "Administrator(s)"
+
+#: lms/endcur.php:122
+msgid "N&atilde;o h&aacute; cursos dispon&iacute;veis"
+msgstr "There are not available courses."
+
+#: lms/endcur.php:124
+msgid "N&atilde;o h&aacute; cursos associados"
+msgstr "There are not associated courses."
+
+#: lms/endcur.php:227
+msgid "Selecione corretamente a institui&ccedil;&atilde;o"
+msgstr "Select a institution"
+
+#: lms/endcur.php:246 lms/endcur.php:298
+msgid "Selecione corretamente o curso"
+msgstr "Select a course."
+
+#: lms/endcur.php:264
+msgid "Selecione corretamente uma refer&ecirc;ncia."
+msgstr "Select a reference."
+
+#: lms/endcur.php:281 lms/endcur.php:340
+msgid ""
+"Voc&ecirc; n&atilde;o &eacute; administrador do curso nem da institui&ccedil;"
+"&atilde;o. Exclus&atilde;o n&atilde;o permitida..."
+msgstr ""
+"You are not administrator of the course neither the institution. Exclusion "
+"not allowed..."
+
+#: lms/endcur.php:315
+msgid ""
+"Voc&ecirc; n&atilde;o &eacute; administrador do curso nem da institui&ccedil;"
+"&atilde;o. Opera&ccedil;&atilde;o n&atilde;o permitida..."
+msgstr ""
+"You are not administrator of the course neither the institution. Operation "
+"not allowed..."
+
+#: lms/endcur.php:408
+msgid "Voc&ecirc; optou por excluir um curso ou se desassociar dele."
+msgstr "You chose to delete a course or desassociate him."
+
+#: lms/endcur.php:409
+msgid ""
+"Todos os seus dados que est&atilde;o vinculados ao curso serão eliminados. "
+msgstr "All data related to the course will be deleted."
+
+#: lms/endcur.php:472 lms/endcur.php:476 lms/endcur.php:485 lms/endcur.php:490
+msgid "Cursos associados"
+msgstr "Associated courses"
+
+#: lms/endcur.php:474 lms/endcur.php:483 lms/endcur.php:495
+msgid "Cursos cadastrados"
+msgstr "Registered courses"
+
+#: lms/endcur.php:479 lms/endcur.php:487 lms/endcur.php:498
+msgid "Incluir novos cursos"
+msgstr "Add new courses"
+
+#: lms/restore.php:39 lms/restore.php:44
+msgid "Recupera&ccedil;&atilde;o"
+msgstr "Resore"
+
+#: lms/restore.php:51 lms/restore.php:92
+msgid "Arquivo n&atilde;o encontrado ..."
+msgstr "File not found ..."
+
+#: lms/restore.php:71
+msgid "Opera&ccedil;&atilde;o realizada com sucesso..."
+msgstr "Operation realized successfully..."
+
+#: lms/restore.php:73
+msgid "Ocorreram erros durante a importa&ccedil;&atilde;o..."
+msgstr "Errors occurred during import..."
+
+#: lms/restore.php:80
+msgid "Selecione um arquivo..."
+msgstr "Select a file"
+
+#: lms/restore.php:87 lms/estudante.php:695
+msgid "Tipo de arquivo"
+msgstr "file type"
+
+#: lms/restore.php:87 lms/estudante.php:695
+msgid "n&atilde;o permitido"
+msgstr "not allowed"
+
+#: lms/restore.php:102
+msgid "Falha na c&oacute;pia do arquivo..."
+msgstr "The copy of file failed."
+
+#: lms/restore.php:108 lms/estudante.php:725
+msgid "Confirmar importa&ccedil;&atilde;o"
+msgstr "Confirm import"
+
+#: lms/restore.php:119
+msgid "Restaurar"
+msgstr "Restore"
+
+#: lms/cadastro.php:15
+msgid ""
+"Voc&ecirc; &eacute; respons&aacute;vel por todo e qualquer dado que fornecer "
+"ao Academusnet."
+msgstr "You are responsible for any and all data that provide the Academusnet."
+
+#: lms/cadastro.php:16 lms/cadastro.php:74 lms/cadastro.php:158
+#: lms/cadastro.php:270 lms/cadastro.php:416
+msgid ""
+"Seja prudente, pois o uso indevido dos recursos deste sistema "
+"acarretar&aacute; nas penas legais cab&iacute;veis."
+msgstr ""
+"Be careful, because the misuse of resources of this system will result in "
+"appropriate legal penalties."
+
+#: lms/cadastro.php:19
+msgid ""
+"Passo 1: selecione as institui&ccedil;&otilde;es que voc&ecirc; possui "
+"v&iacute;nculo."
+msgstr "Step 1: select your institution."
+
+#: lms/cadastro.php:23
+msgid ""
+"Caso sua institui&ccedil;&atilde;o n&atilde;o esteja na lista, n&atilde;o se "
+"preocupe, voc&ecirc; poder&aacute; cadastr&aacute;-la depois."
+msgstr ""
+"If your institution was not listed, do not warry. You may registry it later."
+
+#: lms/cadastro.php:24
+msgid "Se preferir"
+msgstr "If you prefer"
+
+#: lms/cadastro.php:24
+msgid "use a institui&ccedil;&atilde;o gen&eacute;rica Academusnet."
+msgstr "join Academusnet as a generic institution"
+
+#: lms/cadastro.php:26
+msgid ""
+"Caso sua institui&ccedil;&atilde;o n&atilde;o esteja na lista, solicite a "
+"algum representante ou professor que entre em contato conosco."
+msgstr ""
+"In case your institution was not listed, ask to your instructor or "
+"institutional representant to send an email to us."
+
+#: lms/cadastro.php:27
+msgid "Consulte tamb&eacute;m"
+msgstr "See also"
+
+#: lms/cadastro.php:27
+msgid "cursos independentes"
+msgstr "independent courses"
+
+#: lms/cadastro.php:28
+msgid "dispon&iacute;veis e"
+msgstr "available and"
+
+#: lms/cadastro.php:29
+msgid "cursos abertos"
+msgstr "Free courses"
+
+#: lms/cadastro.php:29
+msgid "a visitantes."
+msgstr "to the visitants"
+
+#: lms/cadastro.php:43
+msgid "N&atilde;o h&aacute; institui&ccedil;&otilde;es cadastradas."
+msgstr "There are not registered institutions ..."
+
+#: lms/cadastro.php:73 lms/cadastro.php:157 lms/cadastro.php:269
+#: lms/cadastro.php:415
+msgid ""
+"Aviso importante: voc&ecirc; &eacute; respons&aacute;vel por todo e qualquer "
+"dado que fornecer ao Academusnet."
+msgstr ""
+"Important notice: you are responsible for any and all data provided to the "
+"Academusnet."
+
+#: lms/cadastro.php:105 lms/cadastro.php:537
+msgid "Selecione ao menos uma institui&ccedil;&atilde;o ..."
+msgstr "Select a institution"
+
+#: lms/cadastro.php:107 lms/cadastro.php:115 lms/cadastro.php:208
+#: lms/cadastro.php:220
+msgid "Passo 1"
+msgstr "Step 1"
+
+#: lms/cadastro.php:112
+msgid ""
+"Passo 2: Informe seu Registro de Aprendiz (RA). Ele deve ter sido fornecido "
+"pela institui&ccedil;&atilde;o ou pelo professor."
+msgstr ""
+"Step 2: Inform your student identification provided for the institution or "
+"instructor."
+
+#: lms/cadastro.php:134
+msgid "Registro de aprendiz"
+msgstr "Student identification"
+
+#: lms/cadastro.php:140 lms/cadastro.php:258 lms/cadastro.php:430
+msgid "Passo 3"
+msgstr "Step 3"
+
+#: lms/cadastro.php:205
+msgid "Voc&ecirc; optou por cadastrar a institui&ccedil;&atilde;o depois."
+msgstr "You decide to registry the institution later."
+
+#: lms/cadastro.php:206
+msgid ""
+"Com isso voc&ecirc; ganhar&aacute; atributo de Administrador e dever&aacute; "
+"tamb&eacute;m cadastrar os cursos. Concorda com esse procedimento?"
+msgstr ""
+"Thus, you will gain Administrator role and will have also to register the "
+"courses. Do you agree with this procedure?"
+
+#: lms/cadastro.php:210
+msgid "Continuar"
+msgstr "Continue"
+
+#: lms/cadastro.php:215
+msgid ""
+"Passo 2: Professor, selecione o curso que voc&ecirc; possui v&iacute;nculo "
+"(pode ser selecionado mais de um)."
+msgstr "Step 2: Instructor, select the courses that are linked to you."
+
+#: lms/cadastro.php:216
+msgid ""
+"Caso seu curso n&atilde;o esteja na lista, n&atilde;o se preocupe. "
+"Voc&ecirc; pode cadastr&aacute;-lo depois."
+msgstr ""
+"If your course was not listed, do not warry. You may registry it later."
+
+#: lms/cadastro.php:237
+msgid ""
+"N&atilde;o h&aacute; cursos dispon&iacute;veis para esta institui&ccedil;"
+"&atilde;o"
+msgstr "There are not available courses."
+
+#: lms/cadastro.php:273
+msgid ""
+"Passo 3: caso voc&ecirc; j&aacute; tenha se cadastrado e est&aacute; com "
+"problemas, n&atilde;o se cadastre novamente."
+msgstr ""
+"Step 3: if you already registered yourself and are having trouble, don't "
+"make the registry again."
+
+#: lms/cadastro.php:274
+msgid "Pe&ccedil;a ajuda ao seu professor ou contacte o"
+msgstr "Ask for help to your instructor or contact the"
+
+#: lms/cadastro.php:275 lms/cadastro.php:341 lms/cadastro.php:483
+msgid "suporte"
+msgstr "suport"
+
+#: lms/cadastro.php:278 lms/cadastro.php:296 lms/cadastro.php:314
+#: lms/cadastro.php:433 lms/cadastro.php:539
+msgid "Passo 2"
+msgstr "Step 2"
+
+#: lms/cadastro.php:281
+msgid "Identifica&ccedil;&atilde;o"
+msgstr "Identification"
+
+#: lms/cadastro.php:294
+msgid "Voc&ecirc; deve preencher seu Registro de Aprendiz (RA) ..."
+msgstr "You need to provide your student identification..."
+
+#: lms/cadastro.php:312
+msgid "Ocorreu um erro inesperado. ..."
+msgstr "An unexpected error occurred..."
+
+#: lms/cadastro.php:337
+msgid ""
+"Somente &eacute; poss&iacute;vel cadastrar-se neste sistema caso voc&ecirc; "
+"tenha algum v&iacute;nculo com um professor que previamente"
+msgstr ""
+"It is only allowed to register in this system if you have link with a "
+"instructor who was previously"
+
+#: lms/cadastro.php:338
+msgid ""
+"tenha cadastrado voc&ecirc; em sua disciplina. Seu Registro de Aprendiz (RA) "
+"n&atilde;o foi encontrado em nenhum curso"
+msgstr ""
+"had registered you in a disciplina. Your student identification was not "
+"found."
+
+#: lms/cadastro.php:339
+msgid ""
+"desta institui&ccedil;&atilde;o. Verifique os dados informados nos passos "
+"anteriores."
+msgstr "this institution. Check the data informed in the previous steps."
+
+#: lms/cadastro.php:340
+msgid ""
+"Caso tudo esteja realmente certo, pe&ccedil;a ajuda ao seu professor ou "
+"contacte o"
+msgstr ""
+"If everything is correct, ask for help to your instructor or contact the"
+
+#: lms/cadastro.php:356
+msgid ""
+"Possivelmente voc&ecirc; j&aacute; deve estar cadastrado. Confira os dados "
+"listados abaixo"
+msgstr "You are probably already registered. Check the data listed below"
+
+#: lms/cadastro.php:360
+msgid "Se voc&ecirc; esqueceu sua senha, clique"
+msgstr "If you forgot the password, click"
+
+#: lms/cadastro.php:360
+msgid "aqui"
+msgstr "here"
+
+#: lms/cadastro.php:361
+msgid ""
+"Se suas disciplinas n&atilde;o est&atilde;o sendo disponibilizadas pra "
+"voc&ecirc;"
+msgstr "If your disciplines are not available"
+
+#: lms/cadastro.php:362
+msgid ""
+"&eacute; poss&iacute;vel que seu Registro de Aprendiz (RA) esteja errado; "
+"acesse o sitema e corrija-o em seu perfil."
+msgstr ""
+"it is possible that your student identification is wrong; access the system "
+"and correct it in your profile."
+
+#: lms/cadastro.php:363
+msgid ""
+"Se estiver tendo dificuldades,  pe&ccedil;a ajuda ao seu professor ou entre "
+"em contato com o"
+msgstr ""
+"If you are having trouble, ask for help to your instructor or contact the"
+
+#: lms/cadastro.php:376
+msgid ""
+"Voc&ecirc; confirma esses dados? Se afirmativo, avance para a pr&oacute;xima "
+"etapa."
+msgstr "Do you confirm this data? If so, proceed to the next step."
+
+#: lms/cadastro.php:378 lms/cadastro.php:755 lms/cadastro.php:771
+msgid "Passo 4"
+msgstr "Step 4"
+
+#: lms/cadastro.php:421
+msgid "Passo 4:"
+msgstr "Step 4:"
+
+#: lms/cadastro.php:423
+msgid "Passo 3:"
+msgstr "Step 3:"
+
+#: lms/cadastro.php:426
+msgid ""
+"forne&ccedil;a seus dados cadastrais. Campos precedidos de asterisco (*) "
+"s&atilde;o obrigat&oacute;rios."
+msgstr ""
+"provide your personal data. All field preceding asterisk (*) are required. "
+
+#: lms/cadastro.php:437 lms/cadastro.php:822 lms/cadastro.php:892
+msgid "Cadastro"
+msgstr "Registry"
+
+#: lms/cadastro.php:479
+msgid ""
+"Somente &eacute; poss&iacute;vel cadastrar-se neste sistema caso voc&ecirc; "
+"tenha algum v&iacute;nculo"
+msgstr "It is only allowed to register in this system if you have a link"
+
+#: lms/cadastro.php:480
+msgid ""
+"com um professor que previamente tenha cadastrado voc&ecirc; em sua "
+"disciplina."
+msgstr "with a instructor who previously registered you in a discipline."
+
+#: lms/cadastro.php:481
+msgid ""
+"Seu Registro de Aprendiz (RA) n&atilde;o foi encontrado em nenhum curso "
+"desta institui&ccedil;&atilde;o."
+msgstr "Your student identification was not found."
+
+#: lms/cadastro.php:482
+msgid ""
+"Verifique os dados informados nos passos anteriores. Caso tudo esteja "
+"realmente certo, pe&ccedil;a ajuda ao seu professor ou contacte o"
+msgstr ""
+"Check the data reported in the previous steps. If everything is really "
+"correct, ask for help to your instructor or contact"
+
+#: lms/cadastro.php:699
+msgid "Registrar-se como"
+msgstr "To register as"
+
+#: lms/cadastro.php:753
+msgid "Usu&aacute;rio informado j&aacute; existe"
+msgstr "User already exists"
+
+#: lms/cadastro.php:817
+msgid "Dados de Cadastramento"
+msgstr "Personal data"
+
+#: lms/cadastro.php:819
+msgid "Cadastramento realizado com sucesso"
+msgstr "Operation realized successfully..."
+
+#: lms/cadastro.php:825
+msgid ""
+"Um email foi enviado para a sua caixa postal com os seus dados cadastrais e "
+"senha. Guarde-o com cuidado para evitar esquecimento."
+msgstr ""
+"An email was sent to your mailbox with your personal data and password. Save "
+"it with care to avoid forgetfulness."
+
+#: lms/cadastro.php:826
+msgid ""
+"A partir de agora voc&ecirc; j&aacute; pode acessar o Academusnet. Efetue seu"
+msgstr "Since now you may access the Academusnet. Make your"
+
+#: lms/cadastro.php:827
+msgid "login"
+msgstr "login"
+
+#: lms/cadastro.php:836
+msgid ""
+"Forne&ccedil;a todos os dados necess&aacute;rios tais como nome, "
+"endere&ccedil;o completo e p&aacute;gina de Internet"
+msgstr "Provide all necessary data such as name, full address and website, "
+
+#: lms/cadastro.php:837
+msgid ""
+"al&eacute;m do nome dos cursos. Todos os campos que precedem de asterisco "
+"(*) s&atilde;o obrigat&oacute;rios. Dentro de muito em breve"
+msgstr ""
+"and the name of the courses. All fields preceding asterisk (*) are required. "
+"As soon as possible"
+
+#: lms/cadastro.php:838
+msgid "entraremos em contato."
+msgstr "we will make contact."
+
+#: lms/cadastro.php:840
+msgid ""
+"Preencha o formul&aacute;rio abaixo para solicitar ajuda. Forne&ccedil;a "
+"todos os dados necess&aacute;rios."
+msgstr "Complete the form below to request help. Provide all necessary data."
+
+#: lms/cadastro.php:841
+msgid ""
+"Todos os campos que precedem de asterisco (*) s&atilde;o obrigat&oacute;"
+"rios. Dentro de muito em breve, entraremos em contato."
+msgstr ""
+"All field preceding asterisk (*) are required. We will make contact as soon "
+"as possible."
+
+#: lms/cadastro.php:845
+msgid "Ajuda"
+msgstr "Help"
+
+#: lms/cadastro.php:881 lms/cadastro.php:887
+msgid "Solicitacao de Cadastramento de Instituicao"
+msgstr "Institution Registry Request"
+
+#: lms/cadastro.php:882
+msgid "Vinculo"
+msgstr "Link"
+
+#: lms/cadastro.php:882 lms/cadastro.php:884
+msgid "Dados"
+msgstr "Data"
+
+#: lms/cadastro.php:884
+msgid "Solicitacao de Ajuda"
+msgstr "Help request"
+
+#: lms/cadastro.php:889
+msgid "Solicita&ccedil;&atilde;o enviada com sucesso"
+msgstr "Request sent successfully"
+
+#: lms/cadastro.php:895
+msgid ""
+"Aguarde, dentro de muito em breve faremos contato. Obrigado pelo seu "
+"interesse nos servi&ccedil;os do Academusnet. Retorne ao"
+msgstr ""
+"Wait, we will make contact as soon as possible. Thank you for your intereste "
+"in our services. Return to"
+
+#: lms/cadastro.php:896
+msgid "in&iacute;co"
+msgstr "Start"
+
+#: lms/equipe.php:19
+msgid "Criar grupos de trabalho"
+msgstr "Create teams"
+
+#: lms/equipe.php:22 lms/equipe.php:95 lms/equipe.php:301 lms/equipe.php:366
+#: lms/menu.inc:93
+msgid "Equipes de trabalho"
+msgstr "Teams"
+
+#: lms/equipe.php:60
+msgid "N&atilde;o h&aacute; equipes registradas"
+msgstr "There are not registered teams"
+
+#: lms/equipe.php:91
+msgid "Definir membros"
+msgstr "Define members"
+
+#: lms/equipe.php:139
+msgid "N&atilde;o h&aacute; membros registrados"
+msgstr "There are not registered members"
+
+#: lms/equipe.php:188 lms/equipe.php:229 lms/equipe.php:251 lms/equipe.php:278
+msgid ""
+"Voc&ecirc; n&atilde;o pode alterar um grupo de trabalho do qual n&atilde;o "
+"faz parte ..."
+msgstr "You can not edit a team which you are not member ..."
+
+#: lms/equipe.php:265 lms/equipe.php:291
+msgid "Selecione ao menos um estudante ..."
+msgstr "Select a student ..."
+
+#: lms/equipe.php:348
+msgid "Voc&ecirc; optou por excluir uma equipe."
+msgstr "You chose to delete a work group."
+
+#: lms/planoensino.php:24 lms/eaddis.php:229 lms/eaddis.php:279
+msgid ""
+"H&aacute; campos n&atilde;o preenchidos. Os dados n&atilde;o foram "
+"inclu&iacute;dos ..."
+msgstr "Fill all required fields ..."
+
+#: lms/planoensino.php:80
+msgid "Voc&ecirc; optou por excluir o plano de ensino."
+msgstr "You chose to delete a syllabus."
+
+#: lms/planoensino.php:152
+msgid "Gerar PDF"
+msgstr "Create PDF"
+
+#: lms/planoensino.php:154
+msgid "Alterar plano de ensino"
+msgstr "Edit syllabus"
+
+#: lms/planoensino.php:155
+msgid "Excluir plano de ensino"
+msgstr "Add syllabus"
+
+#: lms/planoensino.php:217
+msgid "Confirmar exclus&atilde;o"
+msgstr "Confirm exclusion"
+
+#: lms/planoensino.php:224
+msgid "Incluir plano de ensino"
+msgstr "Add syllabus"
+
+#: lms/planoensino.php:231
+msgid "Plano de ensino n&atilde;o foi informado"
+msgstr "Syllabus not informed"
+
+#: lms/planoensino.php:270
+msgid "Carga hor&aacute;ria semanal"
+msgstr "Semanal workload"
+
+#: lms/planoensino.php:272
+msgid "Carga hor&aacute;ria total"
+msgstr "Total workload"
+
+#: lms/planoensino.php:276
+msgid "Ementa"
+msgstr "Course program"
+
+#: lms/planoensino.php:282
+msgid "Conte&uacute;do program&aacute;tico"
+msgstr "Topics"
+
+#: lms/planoensino.php:284
+msgid "Metodologia de ensino"
+msgstr "Didatic strategy"
+
+#: lms/planoensino.php:286
+msgid "Crit&eacute;rio de avalia&ccedil;&atilde;o"
+msgstr "Grading"
+
+#: lms/planoensino.php:288
+msgid "Recursos tem&aacute;ticos"
+msgstr "Didatical resources"
+
+#: lms/planoensino.php:290
+msgid "Bibliografia b&aacute;sica"
+msgstr "Required bibliography"
+
+#: lms/planoensino.php:296
+msgid "Bibliografia complementar"
+msgstr "Recommended bibliography"
+
+#: lms/consmini.php:40
+msgid "P&aacute;gina"
+msgstr "Page"
+
+#: lms/perfil.php:22
+msgid "Conta exclu&iacute;da com sucesso ..."
+msgstr "Count deleted with success ..."
+
+#: lms/perfil.php:52
+msgid "Dados alterados com sucesso ..."
+msgstr "Successfully changed data ..."
+
+#: lms/perfil.php:115
+msgid "Voc&ecirc; optou por excluir sua conta."
+msgstr "You chose to delete your account."
+
+#: lms/perfil.php:179
+msgid "Alterar"
+msgstr "Update"
+
+#: lms/perfil.php:184
+msgid "Campos assinalados com asterisco (*) s&atilde;o obrigat&oacute;rios."
+msgstr "All field preceding asterisk (*) are required. "
+
+#: lms/perfil.php:189
+msgid "Repita a senha"
+msgstr "Email again"
+
+#: lms/perfil.php:212
+msgid "Refer&ecirc;ncias (nome do site/link)"
+msgstr "References (site's name/url)"
+
+#: lms/perfil.php:220 lms/perfil.php:227
+msgid "Remover link"
+msgstr "Remove link"
+
+#: lms/perfil.php:229
+msgid "Adicionar link"
+msgstr "Add link"
+
+#: lms/perfil.php:232
+msgid "Forma&ccedil;&atilde;o"
+msgstr "Academic background"
+
+#: lms/perfil.php:234
+msgid "Experi&ecirc;ncia profissional"
+msgstr "Professional background"
+
+#: lms/perfil.php:236 lms/perfil.php:275 lms/perfil.inc:66
+msgid "Outros interesses"
+msgstr "Other interests"
+
+#: lms/perfil.php:267 lms/perfil.inc:58
+msgid "Forma&ccedil;&atilde;o acad&ecirc;mica"
+msgstr "Academic background"
+
+#: lms/perfil.php:271 lms/perfil.inc:62
+msgid "Experi&ecirc;cia profissional"
+msgstr "Professional background"
+
+#: lms/perfil.php:282 lms/perfil.inc:75 lms/perfil.inc:86
+msgid "Refer&ecirc;ncias"
+msgstr "References"
+
+#: lms/questoes.php:17
+msgid "Incluir novas quest&otilde;es"
+msgstr "Add new questions"
+
+#: lms/questoes.php:63
+msgid "Compet&ecirc;ncia"
+msgstr "Competence"
+
+#: lms/questoes.php:420
+msgid "Voc&ecirc; optou por excluir quest&otilde;es."
+msgstr "You chose to delete questions."
+
+#: lms/acesso.php:36 lms/perfil.inc:106
+msgid "Hora de entrada"
+msgstr "Entrance time"
+
+#: lms/acesso.php:36 lms/perfil.inc:107
+msgid "Hora de sa&iacute;da"
+msgstr "Exit time"
+
+#: lms/acesso.php:36 lms/perfil.inc:107
+msgid "Tempo de conex&atilde;o"
+msgstr "Conection time"
+
+#: lms/acesso.php:37 lms/perfil.inc:108
+msgid "Intervalo entre clicks"
+msgstr "Clicks interval"
+
+#: lms/acesso.php:75
+msgid "N&atilde;o h&aacute; registros de acesso"
+msgstr "There are not access log"
+
+#: lms/acesso.php:107 lms/menu.inc:129 lms/perfil.inc:102
+msgid "Relat&oacute;rio de acesso"
+msgstr "Access report"
+
+#: lms/acesso.php:110
+msgid "Acesso"
+msgstr "Access"
+
+#: lms/acesso.php:113 lms/diario.php:162
+msgid "Se o per&iacute;odo n&atilde;o for informado, lista tudo."
+msgstr "Blank dates list all"
+
+#: lms/acesso.php:119 lms/diario.php:168
+msgid "Per&iacute;odo"
+msgstr "Period"
+
+#: lms/estudante.php:64
+msgid "Pesquisar"
+msgstr "Search"
+
+#: lms/estudante.php:71
+msgid "Ir para p&aacute;gina"
+msgstr "Go to page"
+
+#: lms/estudante.php:71
+msgid "(digite 999 para exibir todos)"
+msgstr "(type 999 to view all)"
+
+#: lms/estudante.php:76
+msgid "Retroceder"
+msgstr "Back"
+
+#: lms/estudante.php:81
+msgid "P&aacute;g."
+msgstr "Pag."
+
+#: lms/estudante.php:84
+msgid "Avan&ccedil;ar"
+msgstr "Go"
+
+#: lms/estudante.php:96
+msgid "Altera dados do estudante"
+msgstr "Edit student"
+
+#: lms/estudante.php:99
+msgid "N&uacute;mero de estudantes"
+msgstr "Number of students"
+
+#: lms/estudante.php:198
+msgid "Ativo"
+msgstr "Active"
+
+#: lms/estudante.php:201
+msgid "Inativo"
+msgstr "Inactive"
+
+#: lms/estudante.php:267
+msgid "Estudante est&aacute; associado a outros dados."
+msgstr "Student are in use."
+
+#: lms/estudante.php:268
+msgid "Exclus&atilde;o n&atilde;o realizada ..."
+msgstr "Exclusion not realizes."
+
+#: lms/estudante.php:274
+msgid ""
+"N&atilde;o &eacute; permitido excluir estudantes que foram cadastrados por "
+"terceiros."
+msgstr ""
+"It is not allowed to exclude students who have been registered by others."
+
+#: lms/estudante.php:275 lms/assunto.php:86
+msgid "Exclus&atilde;o interrompida ..."
+msgstr "Exclusion interrupted ..."
+
+#: lms/estudante.php:296
+msgid ""
+"Estudante j&aacute; cadastrado. Os dados n&atilde;o foram inclu&iacute;dos"
+msgstr "Student already registered."
+
+#: lms/estudante.php:301
+msgid "Informe a institui&ccedil;&atilde;o."
+msgstr "Inform the institution"
+
+#: lms/estudante.php:301
+msgid "Opera&ccedil;&atilde;o n&atilde;o realizada"
+msgstr "Operation not performed"
+
+#: lms/estudante.php:316
+msgid "Estudante j&aacute; cadastrado. Os dados n&atilde;o foram alterados"
+msgstr "Student already registered."
+
+#: lms/estudante.php:376 lms/estudante.php:410
+msgid "Selecione ao menos um estudante"
+msgstr "Select a student"
+
+#: lms/estudante.php:467
+msgid "Voc&ecirc; optou por excluir ou desassociar um estudante."
+msgstr "You chose to delete or desassociate students."
+
+#: lms/estudante.php:511 lms/estudante.php:561 lms/menu.inc:54
+#: lms/menup.inc:27
+msgid "Estudantes"
+msgstr "Students"
+
+#: lms/estudante.php:517 lms/estudante.php:533 lms/estudante.php:549
+msgid "Estudantes associados"
+msgstr "Associated students"
+
+#: lms/estudante.php:520 lms/estudante.php:529 lms/estudante.php:539
+#: lms/estudante.php:544 lms/estudante.php:551
+msgid "Estudantes cadastrados"
+msgstr "Registered students"
+
+#: lms/estudante.php:524 lms/estudante.php:555
+msgid "Importar novos estudantes"
+msgstr "Import new students"
+
+#: lms/estudante.php:526 lms/estudante.php:546 lms/estudante.php:557
+msgid "Incluir novo estudante"
+msgstr "Add new student"
+
+#: lms/estudante.php:535
+msgid "Associar estudantes por meio de importa&ccedil;&atilde;o"
+msgstr "Associate students through importation"
+
+#: lms/estudante.php:609 lms/estudante.php:700
+msgid "Arquivo n&atilde;o encontrado"
+msgstr "File do not found"
+
+#: lms/estudante.php:644 lms/estudante.php:662
+msgid "Registro j&aacute; existe"
+msgstr "Registry already exists"
+
+#: lms/estudante.php:654
+msgid ""
+"Estudante n&atilde;o cadastrado. Inclus&atilde;o permitida ao administrador "
+"da institui&ccedil;&atilde;o"
+msgstr ""
+"Student not registered. Insert only allowed to the institution administrator"
+
+#: lms/estudante.php:676
+msgid "Ocorreram erros durante a importa&ccedil;&atilde;o"
+msgstr "Errors occurred during import process"
+
+#: lms/estudante.php:688
+msgid "Selecione um arquivo"
+msgstr "Select a file"
+
+#: lms/estudante.php:718
+msgid "Falha na c&oacute;pia do arquivo"
+msgstr "The copy of file failed."
+
+#: lms/estudante.php:740
+msgid ""
+"Informe um aquivo .csv que contenha registro e nome dos estudantes separados "
+"por ponto e v&iacute;rgula (;)."
+msgstr ""
+"Tell a .csv file containing students id and name separated by a semicolon "
+"(;)."
+
+#: lms/estudante.php:740
+msgid "Exemplo"
+msgstr "Example"
+
+#: lms/estudante.php:741
+msgid "Arist&oacute;teles de Estagira"
+msgstr "Aristotle of Stagira"
+
+#: lms/estudante.php:741
+msgid "Di&oacute;genes de S&iacute;nope"
+msgstr "Diogenes of Sinope"
+
+#: lms/estudante.php:744
+msgid "Importar"
+msgstr "Import"
+
+#: lms/eaddis.php:41
+msgid "Altera dados da p&aacute;gina"
+msgstr "Edit page"
+
+#: lms/eaddis.php:44
+msgid "Altera dados do t&iacute;tulo"
+msgstr "Edit title"
+
+#: lms/eaddis.php:46
+msgid "Altera lista de p&aacute;ginas"
+msgstr "Edit page list"
+
+#: lms/eaddis.php:138
+msgid "N&atilde;o h&aacute; p&aacute;ginas cadastradas"
+msgstr "There are not registered pages"
+
+#: lms/eaddis.php:140
+msgid "N&atilde;o h&aacute; t&iacute;tulos cadastrados"
+msgstr "There are not registered topics..."
+
+#: lms/eaddis.php:378
+msgid "Voc&ecirc; optou por excluir um t&iacute;tulo."
+msgstr "You chose to delete a title."
+
+#: lms/eaddis.php:507
+msgid "Associar novos t&iacute;tulos"
+msgstr "Associate new titles"
+
+#: lms/eaddis.php:510
+msgid "Incluir novos t&iacute;tulos"
+msgstr "Add new titles"
+
+#: lms/eaddis.php:513
+msgid "Incluir novas p&aacute;ginas"
+msgstr "Add new pages"
+
+#: lms/eaddis.php:515 lms/eaddis.php:524
+msgid "T&iacute;tulos associados"
+msgstr "Associated titles"
+
+#: lms/eaddis.php:518 lms/eaddis.php:531 lms/eaddis.php:548
+msgid "T&iacute;tulos dispon&iacute;veis"
+msgstr "Available titles"
+
+#: lms/eaddis.php:534
+msgid "P&aacute;ginas dispon&iacute;veis"
+msgstr "Available pages"
+
+#: lms/selpro.php:15 lms/selpro.php:113
+msgid "Professores associados"
+msgstr "Associated professors"
+
+#: lms/selpro.php:18
+msgid "Associar novos professores"
+msgstr "Associate new professors"
+
+#: lms/selpro.php:69
+msgid "N&atilde;o h&aacute; outros professores associados a essa disciplina"
+msgstr "There are not associated professors"
+
+#: lms/selpro.php:110
+msgid "Professores cadastrados"
+msgstr "Registered professors"
+
+#: lms/selpro.php:135 lms/selpro.php:156
+msgid "Selecione ao menos um professor ..."
+msgstr "Select a professor"
+
+#: lms/selpro.php:194
+msgid "Voc&ecirc; optou por desassociar um professor do seu ambiente."
+msgstr "You chose to disassociate a professor of your environment."
+
+#: lms/reunioes.php:38
+msgid "Agendar reuni&atilde;o de orienta&ccedil;&atilde;o individual"
+msgstr "Schedule individual orientation meeting"
+
+#: lms/reunioes.php:40
+msgid "Agendar reuni&atilde;o de orienta&ccedil;&atilde;o em grupo"
+msgstr "Schedule group orientation meeting"
+
+#: lms/reunioes.php:44 lms/reunioes.php:195 lms/reunioes.php:198
+#: lms/reunioes.php:239 lms/reunioes.php:242
+msgid "Reuni&otilde;es de orienta&ccedil;&atilde;o"
+msgstr "Orientation meetings"
+
+#: lms/reunioes.php:59
+msgid "Altera dados da reuni&atilde;o"
+msgstr "Edit meeting"
+
+#: lms/reunioes.php:68 lms/reunioes.php:210
+msgid "Hor&aacute;rio"
+msgstr "Time schedule"
+
+#: lms/reunioes.php:68 lms/reunioes.php:211 lms/assunto.php:37
+msgid "Descri&ccedil;&atilde;o"
+msgstr "Description"
+
+#: lms/reunioes.php:114
+msgid "N&atilde;o h&aacute; reuni&otilde;es agendadas"
+msgstr "There are not registered meetings"
+
+#: lms/reunioes.php:213 lms/reunioes.php:252
+msgid "Estudante"
+msgstr "Student"
+
+#: lms/reunioes.php:223
+msgid "Coment&aacute;rios"
+msgstr "Comments"
+
+#: lms/reunioes.php:226
+msgid "Pend&ecirc;ncias"
+msgstr "Pending"
+
+#: lms/reunioes.php:282
+msgid "N&atilde;o h&aacute; equipes registradas..."
+msgstr "There are not  registered teams"
+
+#: lms/reunioes.php:343
+msgid "Voc&ecirc; optou por excluir uma reuni&atilde;o."
+msgstr "You chose to delete meetings."
+
+#: lms/reunioes.php:362
+msgid "Orienta&ccedil;&atilde;o de atividades supervisionadas"
+msgstr "Supervised activities orientation"
+
+#: lms/plano.php:17
+msgid "Incluir novos planos de aula"
+msgstr "Add new lesson plans"
+
+#: lms/plano.php:37
+msgid "Altera o plano de aula"
+msgstr "Edit lesson plans"
+
+#: lms/plano.php:38
+msgid "Anexa material de apoio"
+msgstr "To associate didactic material"
+
+#: lms/plano.php:40
+msgid "Anexa hipertextos"
+msgstr "To associate hypertexts"
+
+#: lms/plano.php:44
+msgid "Estrat&eacute;gia educacional"
+msgstr "Educational strategy"
+
+#: lms/plano.php:55
+msgid "Eixo tem&aacute;tico"
+msgstr "Thematic area"
+
+#: lms/plano.php:104
+msgid "N&atilde;o h&aacute; planos de aula registrados"
+msgstr "There are not registered lesson plans"
+
+#: lms/plano.php:137
+msgid "Associar material de apoio"
+msgstr "To associate didactic material"
+
+#: lms/plano.php:142
+msgid "Material de apoio associado"
+msgstr "Associated didactic material "
+
+#: lms/plano.php:146
+msgid "Planos de aula e material de apoio"
+msgstr "Lesson plan and didatic material"
+
+#: lms/plano.php:411
+msgid "Associar hipertextos"
+msgstr "To associate hypertexts"
+
+#: lms/plano.php:416
+msgid "Hipertextos associados"
+msgstr "Associated hypertexts"
+
+#: lms/plano.php:420
+msgid "Planos de aula e hipertextos"
+msgstr "Lesson plan and hypertexts"
+
+#: lms/plano.php:472
+msgid "N&atilde;o h&aacute; textos e resumos registrados ..."
+msgstr "There are not registered texts and abstracts ..."
+
+#: lms/plano.php:543
+msgid "Associar atividades"
+msgstr "Associate activities"
+
+#: lms/plano.php:548
+msgid "Atividades associadas"
+msgstr "Associated activities"
+
+#: lms/plano.php:552
+msgid "Planos de aula e atividades"
+msgstr "Lesson plan and activities"
+
+#: lms/plano.php:600
+msgid "N&atilde;o h&aacute; atividades registradas ..."
+msgstr "There are not registered activities ..."
+
+#: lms/plano.php:694
+msgid "Conte&uacute;dos"
+msgstr "Content"
+
+#: lms/plano.php:697
+msgid "Metodologia de Ensino"
+msgstr "Education methodology"
+
+#: lms/plano.php:708
+msgid "prazo"
+msgstr "time frame"
+
+#: lms/plano.php:708
+msgid "(atividade)"
+msgstr "(activity)"
+
+#: lms/plano.php:712
+msgid "Leitura Obrigat&oacute;ria"
+msgstr "Required readings"
+
+#: lms/plano.php:715
+msgid "Leitura Recomendada"
+msgstr "Recomended readings"
+
+#: lms/plano.php:724
+msgid "A&ccedil;&otilde;es educativas"
+msgstr "Education actions"
+
+#: lms/plano.php:756
+msgid "Outras refer&ecirc;ncias"
+msgstr "Others references"
+
+#: lms/plano.php:762
+msgid "(arquivo)"
+msgstr "(file)"
+
+#: lms/plano.php:769
+msgid "(texto/resumo)"
+msgstr "(text/abstract)"
+
+#: lms/plano.php:824
+msgid "Defina ao menos uma a&ccedil;&atilde;o ..."
+msgstr "Define an action ..."
+
+#: lms/plano.php:856
+msgid "Eixo tem&aacute;tivo"
+msgstr "Thematic area"
+
+#: lms/plano.php:862
+msgid "Metodologia"
+msgstr "Methodology"
+
+#: lms/plano.php:866
+msgid "Leituras obrigat&oacute;rias"
+msgstr "Required readings"
+
+#: lms/plano.php:868
+msgid "Leituras recomendadas"
+msgstr "Recomended readings"
+
+#: lms/plano.php:883
+msgid "Plano de aula - Taxonomia de Bloom"
+msgstr "Lesson plan - Bloom's Taxonomy"
+
+#: lms/plano.php:901
+msgid "Objetivos da disciplina"
+msgstr "Discipline objectives"
+
+#: lms/plano.php:905
+msgid "Objetivos da aula"
+msgstr "Class objectives"
+
+#: lms/backup.php:20 lms/menu.inc:123
+msgid "Backup"
+msgstr "Backup"
+
+#: lms/backup.php:23
+msgid "C&oacute;pia de seguran&ccedil;a"
+msgstr "Backup"
+
+#: lms/backup.php:400
+msgid "Arquivo de backup"
+msgstr "Backup file"
+
+#: lms/backup.php:404
+msgid "Arquivo de backup a ser gerado"
+msgstr "Backup file to be created"
+
+#: lms/backup.php:405
+msgid "Gerar arquivo"
+msgstr "Create file"
+
+#: lms/assunto.php:17
+msgid "Incluir novos assuntos"
+msgstr "Add new subject"
+
+#: lms/assunto.php:31
+msgid "Altera dados do assunto"
+msgstr "Edit subject"
+
+#: lms/assunto.php:55
+msgid "N&atilde;o h&aacute; assuntos registrados"
+msgstr "There are not registered subjects"
+
+#: lms/assunto.php:85
+msgid "O assunto est&aacute; sendo usado."
+msgstr "This subject is in use."
+
+#: lms/assunto.php:117
+msgid "Assuntos cadastrados"
+msgstr "Registered subjects"
+
+#: lms/assunto.php:160
+msgid "Voc&ecirc; optou por excluir assuntos."
+msgstr "You chose to delete subjects."
+
+#: lms/assunto.php:196 lms/menup.inc:23
+msgid "Assuntos"
+msgstr "Subjects"
+
+#: lms/diario.php:9
+msgid "&Aacute;rea restrita"
+msgstr "Restrict area"
+
+#: lms/diario.php:40
+msgid "Per&iacute;odo de"
+msgstr "Period"
+
+#: lms/diario.php:50 lms/diario.php:153 lms/menu.inc:126
+msgid "Di&aacute;rio de classe"
+msgstr "Daily routine"
+
+#: lms/diario.php:52
+msgid "Registro de mat&eacute;ria"
+msgstr "Registered topics"
+
+#: lms/diario.php:79
+msgid "Estudantes ausentes"
+msgstr "Absented students"
+
+#: lms/diario.php:89 lms/diario.php:116
+msgid "falta(s)"
+msgstr "absent(s)"
+
+#: lms/diario.php:94
+msgid "N&atilde;o h&aacute; aulas registradas ..."
+msgstr "There are not registered classes ..."
+
+#: lms/diario.php:109
+msgid "Controle de frequ&ecirc;ncia - sumariza&ccedil;&atilde;o"
+msgstr "Absence management - summarization"
+
+#: lms/menu.inc:28
+msgid "Voc&ecirc; optou por excluir este ambiente."
+msgstr "You chose to delete your environment."
+
+#: lms/menu.inc:87
+msgid "Compartilhar"
+msgstr "Share"
+
+#: lms/menu.inc:124
+msgid "Configura&ccedil;&atilde;o"
+msgstr "Set up"
+
+#: lms/menu.inc:125
+msgid "Copiar este ambiente"
+msgstr "Copy this environment"
+
+#: lms/menu.inc:127
+msgid "Excluir este ambiente"
+msgstr "Delete this environment"
+
+#: lms/menu.inc:130
+msgid "Transferir esse ambiente"
+msgstr "Transfer this enveironment"
+
+#: lms/dadosdis.inc:73
+msgid "Sem professor definido"
+msgstr "No instructor defined"
+
+#: lms/perfil.inc:106
+msgid "Disciplina"
+msgstr "Discipline"
+
+#: lms/perfil.inc:127
+msgid "N&atilde;o h&aacute; registros de acesso ..."
+msgstr "There are not access log ..."
+
+#~ msgid "N&atilde;o h&aacute; mensagens registradas ..."
+#~ msgstr "There are not registered messagens..."
+
+#~ msgid "Habilidade"
+#~ msgstr "Hability"
+
+#~ msgid "Esqueceu a senha?"
+#~ msgstr "Forget password?"
+
+#~ msgid "Clique aqui"
+#~ msgstr "Click here"
+
+#~ msgid "N&atilde;o possui ainda uma conta?"
+#~ msgstr "Have you not an account yet?"
+
+#~ msgid "A&ccedil;&otilde;es educacionais (Taxonomia de Bloom)"
+#~ msgstr "Educational acctions (Bloom's Taxonomy)"
+
+#~ msgid "Plano de Ensino"
+#~ msgstr "Syllabus"
+
+#~ msgid "Planos de Aula"
+#~ msgstr "Class schedule"
+
+#~ msgid "Relat&oacute;rio de Notas"
+#~ msgstr "Grades report"
+
+#~ msgid "Marcar Todos"
+#~ msgstr "Check all"
+
+#~ msgid "Desmarcar Todos"
+#~ msgstr "Uncheck all"
+
+#~ msgid "Excluir Plano de Ensino"
+#~ msgstr "Delete syllabus"
+
+#, fuzzy
+#~ msgid "T&iacute;tulo:"
+#~ msgstr "Title"
+
+#~ msgid "Eixo Tem&aacute;tico"
+#~ msgstr "Thematic area"
+
+#~ msgid "Forum"
+#~ msgstr "Forum"
+
+#~ msgid "Relat&oacute;rio de Acesso"
+#~ msgstr "Access report"
+
+#~ msgid "Controle de Frequ&ecirc;ncia"
+#~ msgstr "Absent management"
+
+#, fuzzy
+#~ msgid "Alternaticas"
+#~ msgstr "Update"
+
+#~ msgid "Remover Link"
+#~ msgstr "Remove link"
+
+#~ msgid "Repita o Email"
+#~ msgstr "Email again"
+
+#~ msgid "Di&aacute;rio de Classe"
+#~ msgstr "Daily routine"
+
+#~ msgid "Para cadastrar ou importar novos estudantes, clique em [Estudantes]"
+#~ msgstr "To register or import new students, click [Students]"
+
+#~ msgid "Para criar novas disciplinas, clique em [Disciplinas]"
+#~ msgstr "To create new disciplines, click [Disciplines]"
